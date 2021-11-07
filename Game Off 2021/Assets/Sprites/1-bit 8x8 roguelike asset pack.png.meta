@@ -1,0 +1,2928 @@
+fileFormatVersion: 2
+guid: e03833201162f664a9cf8671e8defd1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4299862347352016010
+    second: 1-bit 8x8 roguelike asset pack_0
+  - first:
+      213: -6308892946117717647
+    second: 1-bit 8x8 roguelike asset pack_1
+  - first:
+      213: 8722556409611148447
+    second: 1-bit 8x8 roguelike asset pack_2
+  - first:
+      213: 4162949712191827612
+    second: 1-bit 8x8 roguelike asset pack_3
+  - first:
+      213: 1410936348611328686
+    second: 1-bit 8x8 roguelike asset pack_4
+  - first:
+      213: -3204139835612841524
+    second: 1-bit 8x8 roguelike asset pack_5
+  - first:
+      213: 5219795067663674017
+    second: 1-bit 8x8 roguelike asset pack_6
+  - first:
+      213: 8239454003686808448
+    second: 1-bit 8x8 roguelike asset pack_7
+  - first:
+      213: 4946596601364160096
+    second: 1-bit 8x8 roguelike asset pack_8
+  - first:
+      213: 251394831760639322
+    second: 1-bit 8x8 roguelike asset pack_9
+  - first:
+      213: -1036955338496799496
+    second: 1-bit 8x8 roguelike asset pack_10
+  - first:
+      213: -3719432102919136420
+    second: 1-bit 8x8 roguelike asset pack_11
+  - first:
+      213: 3068101610482323176
+    second: 1-bit 8x8 roguelike asset pack_12
+  - first:
+      213: -8509981894534324926
+    second: 1-bit 8x8 roguelike asset pack_13
+  - first:
+      213: 6634631213981527298
+    second: 1-bit 8x8 roguelike asset pack_14
+  - first:
+      213: 7663475582528808202
+    second: 1-bit 8x8 roguelike asset pack_15
+  - first:
+      213: 8071505446542436983
+    second: 1-bit 8x8 roguelike asset pack_16
+  - first:
+      213: 5021049952788788057
+    second: 1-bit 8x8 roguelike asset pack_17
+  - first:
+      213: 1952621836082184243
+    second: 1-bit 8x8 roguelike asset pack_18
+  - first:
+      213: -7547607305125377681
+    second: 1-bit 8x8 roguelike asset pack_19
+  - first:
+      213: -511698968309737633
+    second: 1-bit 8x8 roguelike asset pack_20
+  - first:
+      213: 2761129759067452208
+    second: 1-bit 8x8 roguelike asset pack_21
+  - first:
+      213: -7712396978307562952
+    second: 1-bit 8x8 roguelike asset pack_22
+  - first:
+      213: -4650416024221248080
+    second: 1-bit 8x8 roguelike asset pack_23
+  - first:
+      213: 7981850161316121275
+    second: 1-bit 8x8 roguelike asset pack_24
+  - first:
+      213: -9035741002852521376
+    second: 1-bit 8x8 roguelike asset pack_25
+  - first:
+      213: 5507603286078856747
+    second: 1-bit 8x8 roguelike asset pack_26
+  - first:
+      213: -7451681802131377544
+    second: 1-bit 8x8 roguelike asset pack_27
+  - first:
+      213: -5089849064285292359
+    second: 1-bit 8x8 roguelike asset pack_28
+  - first:
+      213: -2826460451711707738
+    second: 1-bit 8x8 roguelike asset pack_29
+  - first:
+      213: 5643131967896445743
+    second: 1-bit 8x8 roguelike asset pack_30
+  - first:
+      213: -480108324727922780
+    second: 1-bit 8x8 roguelike asset pack_31
+  - first:
+      213: -4651466546322112608
+    second: 1-bit 8x8 roguelike asset pack_32
+  - first:
+      213: -1043494766260989870
+    second: 1-bit 8x8 roguelike asset pack_33
+  - first:
+      213: 2731806936035406369
+    second: 1-bit 8x8 roguelike asset pack_34
+  - first:
+      213: -329677744088722521
+    second: 1-bit 8x8 roguelike asset pack_35
+  - first:
+      213: -3211334588240631454
+    second: 1-bit 8x8 roguelike asset pack_36
+  - first:
+      213: 7382803760305621951
+    second: 1-bit 8x8 roguelike asset pack_37
+  - first:
+      213: -7131918166588710393
+    second: 1-bit 8x8 roguelike asset pack_38
+  - first:
+      213: 7176498156727686609
+    second: 1-bit 8x8 roguelike asset pack_39
+  - first:
+      213: 605564665369566537
+    second: 1-bit 8x8 roguelike asset pack_40
+  - first:
+      213: 3225757119341508980
+    second: 1-bit 8x8 roguelike asset pack_41
+  - first:
+      213: 3293812219440160281
+    second: 1-bit 8x8 roguelike asset pack_42
+  - first:
+      213: 7476295546844911373
+    second: 1-bit 8x8 roguelike asset pack_43
+  - first:
+      213: 267401694265375973
+    second: 1-bit 8x8 roguelike asset pack_44
+  - first:
+      213: 3025510610923276435
+    second: 1-bit 8x8 roguelike asset pack_45
+  - first:
+      213: 8930571106919500218
+    second: 1-bit 8x8 roguelike asset pack_46
+  - first:
+      213: 8768817012387179996
+    second: 1-bit 8x8 roguelike asset pack_47
+  - first:
+      213: 6058758877935111910
+    second: 1-bit 8x8 roguelike asset pack_48
+  - first:
+      213: 5763880214192211742
+    second: 1-bit 8x8 roguelike asset pack_49
+  - first:
+      213: 5452093282978774143
+    second: 1-bit 8x8 roguelike asset pack_50
+  - first:
+      213: -7668000236423870390
+    second: 1-bit 8x8 roguelike asset pack_51
+  - first:
+      213: 5318999923621371900
+    second: 1-bit 8x8 roguelike asset pack_52
+  - first:
+      213: -3816793036970552340
+    second: 1-bit 8x8 roguelike asset pack_53
+  - first:
+      213: 8281889310759933952
+    second: 1-bit 8x8 roguelike asset pack_54
+  - first:
+      213: 5580505227209490458
+    second: 1-bit 8x8 roguelike asset pack_55
+  - first:
+      213: -3625757689774257495
+    second: 1-bit 8x8 roguelike asset pack_56
+  - first:
+      213: 1589857093972510693
+    second: 1-bit 8x8 roguelike asset pack_57
+  - first:
+      213: -7346327843119767029
+    second: 1-bit 8x8 roguelike asset pack_58
+  - first:
+      213: -2283989775607716763
+    second: 1-bit 8x8 roguelike asset pack_59
+  - first:
+      213: -3525543290533674068
+    second: 1-bit 8x8 roguelike asset pack_60
+  - first:
+      213: -6405607648397991791
+    second: 1-bit 8x8 roguelike asset pack_61
+  - first:
+      213: -1324535291636180867
+    second: 1-bit 8x8 roguelike asset pack_62
+  - first:
+      213: 1089236780603890074
+    second: 1-bit 8x8 roguelike asset pack_63
+  - first:
+      213: 3630279529981273717
+    second: 1-bit 8x8 roguelike asset pack_64
+  - first:
+      213: 3980936305203860220
+    second: 1-bit 8x8 roguelike asset pack_65
+  - first:
+      213: -967816207281776481
+    second: 1-bit 8x8 roguelike asset pack_66
+  - first:
+      213: -2456142702283076949
+    second: 1-bit 8x8 roguelike asset pack_67
+  - first:
+      213: -7459756428679025561
+    second: 1-bit 8x8 roguelike asset pack_68
+  - first:
+      213: 6432553594111205293
+    second: 1-bit 8x8 roguelike asset pack_69
+  - first:
+      213: -501932480836624074
+    second: 1-bit 8x8 roguelike asset pack_70
+  - first:
+      213: -3683576098366295227
+    second: 1-bit 8x8 roguelike asset pack_71
+  - first:
+      213: 4069877833875817548
+    second: 1-bit 8x8 roguelike asset pack_72
+  - first:
+      213: 8413416671048236736
+    second: 1-bit 8x8 roguelike asset pack_73
+  - first:
+      213: -4666759837552395016
+    second: 1-bit 8x8 roguelike asset pack_74
+  - first:
+      213: 9124922698043457979
+    second: 1-bit 8x8 roguelike asset pack_75
+  - first:
+      213: -5184384410082206146
+    second: 1-bit 8x8 roguelike asset pack_76
+  - first:
+      213: -6058716648082383573
+    second: 1-bit 8x8 roguelike asset pack_77
+  - first:
+      213: -4661773803138544574
+    second: 1-bit 8x8 roguelike asset pack_78
+  - first:
+      213: -9104488621140830513
+    second: 1-bit 8x8 roguelike asset pack_79
+  - first:
+      213: 293710207284545348
+    second: 1-bit 8x8 roguelike asset pack_80
+  - first:
+      213: -8555295600443103192
+    second: 1-bit 8x8 roguelike asset pack_81
+  - first:
+      213: 8628640482532746918
+    second: 1-bit 8x8 roguelike asset pack_82
+  - first:
+      213: -1626692407653824319
+    second: 1-bit 8x8 roguelike asset pack_83
+  - first:
+      213: -3312604529040204693
+    second: 1-bit 8x8 roguelike asset pack_84
+  - first:
+      213: -2857775606715906217
+    second: 1-bit 8x8 roguelike asset pack_85
+  - first:
+      213: -3303876618471208969
+    second: 1-bit 8x8 roguelike asset pack_86
+  - first:
+      213: -4827787337438079837
+    second: 1-bit 8x8 roguelike asset pack_87
+  - first:
+      213: -6059580226251068022
+    second: 1-bit 8x8 roguelike asset pack_88
+  - first:
+      213: -1182286119527368347
+    second: 1-bit 8x8 roguelike asset pack_89
+  - first:
+      213: 9030542417425405951
+    second: 1-bit 8x8 roguelike asset pack_90
+  - first:
+      213: -4053437486513177273
+    second: 1-bit 8x8 roguelike asset pack_91
+  - first:
+      213: 7403134416904379923
+    second: 1-bit 8x8 roguelike asset pack_92
+  - first:
+      213: 2930875669653380396
+    second: 1-bit 8x8 roguelike asset pack_93
+  - first:
+      213: 4148555294525855762
+    second: 1-bit 8x8 roguelike asset pack_94
+  - first:
+      213: 840868263216960793
+    second: 1-bit 8x8 roguelike asset pack_95
+  - first:
+      213: 2695191189372481786
+    second: 1-bit 8x8 roguelike asset pack_96
+  - first:
+      213: -5287581361620703040
+    second: 1-bit 8x8 roguelike asset pack_97
+  - first:
+      213: 4826626807363652234
+    second: 1-bit 8x8 roguelike asset pack_98
+  - first:
+      213: 6909809108082444369
+    second: 1-bit 8x8 roguelike asset pack_99
+  - first:
+      213: 7092591949222232294
+    second: 1-bit 8x8 roguelike asset pack_100
+  - first:
+      213: 1175766291718391781
+    second: 1-bit 8x8 roguelike asset pack_101
+  - first:
+      213: -1273918785390745013
+    second: 1-bit 8x8 roguelike asset pack_102
+  - first:
+      213: 3769053985137059267
+    second: 1-bit 8x8 roguelike asset pack_103
+  - first:
+      213: 8823612638949614758
+    second: 1-bit 8x8 roguelike asset pack_104
+  - first:
+      213: 9050431906545769468
+    second: 1-bit 8x8 roguelike asset pack_105
+  - first:
+      213: -8260381084186545551
+    second: 1-bit 8x8 roguelike asset pack_106
+  - first:
+      213: -8174436056815672988
+    second: 1-bit 8x8 roguelike asset pack_107
+  - first:
+      213: -8320781027089354949
+    second: 1-bit 8x8 roguelike asset pack_108
+  - first:
+      213: 2156574071687609829
+    second: 1-bit 8x8 roguelike asset pack_109
+  - first:
+      213: 6813725546106845557
+    second: 1-bit 8x8 roguelike asset pack_110
+  - first:
+      213: -2981304559483411363
+    second: 1-bit 8x8 roguelike asset pack_111
+  - first:
+      213: -1613551687524439624
+    second: 1-bit 8x8 roguelike asset pack_112
+  - first:
+      213: -28042352359630016
+    second: 1-bit 8x8 roguelike asset pack_113
+  - first:
+      213: -7762432893700220403
+    second: 1-bit 8x8 roguelike asset pack_114
+  - first:
+      213: 3295701591547109221
+    second: 1-bit 8x8 roguelike asset pack_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848ef4f50e2cab30800000000000000
+      internalID: 4299862347352016010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719fac9a4f4278a0800000000000000
+      internalID: -6308892946117717647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cdd2827debc0970800000000000000
+      internalID: 8722556409611148447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e220df4b4c5c930800000000000000
+      internalID: 4162949712191827612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa3aa33227a49310800000000000000
+      internalID: 1410936348611328686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc93e97bbcb9883d0800000000000000
+      internalID: -3204139835612841524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaed6855ff607840800000000000000
+      internalID: 5219795067663674017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1ce803cb685270800000000000000
+      internalID: 8239454003686808448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e17779667d5a440800000000000000
+      internalID: 4946596601364160096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55467d74422d7300800000000000000
+      internalID: 251394831760639322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc04f81d9efb91f0800000000000000
+      internalID: -1036955338496799496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1253753ce16cc0800000000000000
+      internalID: -3719432102919136420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee4a93c826149a20800000000000000
+      internalID: 3068101610482323176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 306
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d96430e8876e980800000000000000
+      internalID: -8509981894534324926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6615ffe1f21c50800000000000000
+      internalID: 6634631213981527298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 306
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05628180722a5a60800000000000000
+      internalID: 7663475582528808202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 306
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aeacf507fb30070800000000000000
+      internalID: 8071505446542436983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b773545a5ea540800000000000000
+      internalID: 5021049952788788057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 306
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3308958e63b191b10800000000000000
+      internalID: 1952621836082184243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 307
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69cbd91523814790800000000000000
+      internalID: -7547607305125377681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 306
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57d6f9df7416e8f0800000000000000
+      internalID: -511698968309737633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 307
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b9f303e0815620800000000000000
+      internalID: 2761129759067452208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8328e2d6fcf08f490800000000000000
+      internalID: -7712396978307562952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 306
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b51282d347667fb0800000000000000
+      internalID: -4650416024221248080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 290
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba44ab9e6a35ce60800000000000000
+      internalID: 7981850161316121275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a2b8a6e699a9280800000000000000
+      internalID: -9035741002852521376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e11861200fe6c40800000000000000
+      internalID: 5507603286078856747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87277b4b1ee469890800000000000000
+      internalID: -7451681802131377544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8bbe24e393d59b0800000000000000
+      internalID: -5089849064285292359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a59804c13566c8d0800000000000000
+      internalID: -2826460451711707738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 290
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f236e1f40ae605e40800000000000000
+      internalID: 5643131967896445743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 290
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af52eab5005659f0800000000000000
+      internalID: -480108324727922780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 290
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af7bd512dba27fb0800000000000000
+      internalID: -4651466546322112608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 290
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d80ce903c481f0800000000000000
+      internalID: -1043494766260989870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122b6514fe359e520800000000000000
+      internalID: 2731806936035406369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 290
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a35d35a6dfbc6bf0800000000000000
+      internalID: -329677744088722521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 323
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269edf4d43c0f63d0800000000000000
+      internalID: -3211334588240631454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 321
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb4f6b77ecf47660800000000000000
+      internalID: 7382803760305621951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7022359c636560d90800000000000000
+      internalID: -7131918166588710393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 321
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5dff20d0b089360800000000000000
+      internalID: 7176498156727686609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 313
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d91efcad5676800800000000000000
+      internalID: 605564665369566537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479b90e520134cc20800000000000000
+      internalID: 3225757119341508980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e529023c8f5bd20800000000000000
+      internalID: 3293812219440160281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d079681503321c760800000000000000
+      internalID: 7476295546844911373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 308
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec76079c6006b300800000000000000
+      internalID: 267401694265375973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 308
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398c14ceed5ccf920800000000000000
+      internalID: 3025510610923276435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 308
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9cd450b13cfeb70800000000000000
+      internalID: 8930571106919500218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_47
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 307
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd6db31d9811b970800000000000000
+      internalID: 8768817012387179996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 298
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee011b4919051450800000000000000
+      internalID: 6058758877935111910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 298
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1744d6348a6dff40800000000000000
+      internalID: 5763880214192211742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 298
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c3e3654f9b9ab40800000000000000
+      internalID: 5452093282978774143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 298
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48085a696ac59590800000000000000
+      internalID: -7668000236423870390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 298
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff18cfcf32e0d940800000000000000
+      internalID: 5318999923621371900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 298
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce39f2284f6080bc0800000000000000
+      internalID: -3816793036970552340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_54
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 299
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00853f4e27e2fe270800000000000000
+      internalID: 8281889310759933952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 156
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104807ffefe17d40800000000000000
+      internalID: 5580505227209490458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 156
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa4d5b5798beadc0800000000000000
+      internalID: -3625757689774257495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 146
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7cdd18a9e401610800000000000000
+      internalID: 1589857093972510693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 146
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02e84bcfb99c0a90800000000000000
+      internalID: -7346327843119767029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 136
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56427427663ad40e0800000000000000
+      internalID: -2283989775607716763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 126
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38a7f6e01c21fc0800000000000000
+      internalID: -3525543290533674068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 126
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19066ba38c5ba17a0800000000000000
+      internalID: -6405607648397991791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 116
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d789e818b2e4e9de0800000000000000
+      internalID: -1324535291636180867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995f28b41fbd1f00800000000000000
+      internalID: 1089236780603890074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 106
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576e7eb9ff7516230800000000000000
+      internalID: 3630279529981273717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 106
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d1294a702f3730800000000000000
+      internalID: 3980936305203860220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_66
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f989a158940a192f0800000000000000
+      internalID: -967816207281776481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_67
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baacfb8b9370aedd0800000000000000
+      internalID: -2456142702283076949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_68
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 96
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c66a53d0f997890800000000000000
+      internalID: -7459756428679025561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf19a7a965054950800000000000000
+      internalID: 6432553594111205293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_70
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 154
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631a08a6117c809f0800000000000000
+      internalID: -501932480836624074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_71
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543f1c11e0f41ecc0800000000000000
+      internalID: -3683576098366295227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448767a35c1b7830800000000000000
+      internalID: 4069877833875817548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_73
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cefd29d2e572c470800000000000000
+      internalID: 8413416671048236736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_74
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 154
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc31ae37a65c3fb0800000000000000
+      internalID: -4666759837552395016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_75
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb187c319dc32ae70800000000000000
+      internalID: 9124922698043457979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_76
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e1af9d8dd5d08b0800000000000000
+      internalID: -5184384410082206146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 155
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ddd4c1f4d1beba0800000000000000
+      internalID: -6058716648082383573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_78
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 154
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c84b8dc6d0e4fb0800000000000000
+      internalID: -4661773803138544574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_79
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6905336db56a180800000000000000
+      internalID: -9104488621140830513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_80
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 155
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4470a1c90e7731400800000000000000
+      internalID: 293710207284545348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_81
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 141
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8286023bafb754980800000000000000
+      internalID: -8555295600443103192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_82
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 140
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a66be76dc61fb770800000000000000
+      internalID: 8628640482532746918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 141
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c808f2bfd3dc69e0800000000000000
+      internalID: -1626692407653824319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_84
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 142
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c55355bb34702d0800000000000000
+      internalID: -3312604529040204693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_85
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 141
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7570ce11a342758d0800000000000000
+      internalID: -2857775606715906217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_86
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 141
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70e4e58b54622d0800000000000000
+      internalID: -3303876618471208969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 141
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4dfdccef0400db0800000000000000
+      internalID: -4827787337438079837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_88
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 141
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de256a3eb08eba0800000000000000
+      internalID: -6059580226251068022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_89
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 141
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56932bec90da79fe0800000000000000
+      internalID: -1182286119527368347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_90
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 141
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff71db79b7ee25d70800000000000000
+      internalID: 9030542417425405951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_91
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3121051c4fb7c0800000000000000
+      internalID: -4053437486513177273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_92
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 130
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31edd0857873db660800000000000000
+      internalID: 7403134416904379923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 130
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d5682a4ef8ca820800000000000000
+      internalID: 2930875669653380396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_94
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 130
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21897457f01a29930800000000000000
+      internalID: 4148555294525855762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_95
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 130
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91552f3fa3d5bab00800000000000000
+      internalID: 840868263216960793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_96
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 119
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af03f446b1e376520800000000000000
+      internalID: 2695191189372481786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_97
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c82f9334ccbe96b0800000000000000
+      internalID: -5287581361620703040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_98
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 119
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac94c328f9bf240800000000000000
+      internalID: 4826626807363652234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_99
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158430926c294ef50800000000000000
+      internalID: 6909809108082444369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 95
+        width: 55
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0cf26bcc2fd6260800000000000000
+      internalID: 7092591949222232294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_101
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 89
+        width: 50
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7c0cc7639215010800000000000000
+      internalID: 1175766291718391781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 82
+        width: 50
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a661c3d91225ee0800000000000000
+      internalID: -1273918785390745013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_103
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 90
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c56d5351ae5e4430800000000000000
+      internalID: 3769053985137059267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_104
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 90
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a42d3412f4c37a70800000000000000
+      internalID: 8823612638949614758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb95852ed7999d70800000000000000
+      internalID: 9050431906545769468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_106
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17274b75b2b3d5d80800000000000000
+      internalID: -8260381084186545551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 91
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4616b5267b19e8e80800000000000000
+      internalID: -8174436056815672988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_108
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6782cdb5a68c80800000000000000
+      internalID: -8320781027089354949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_109
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 93
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edf1c231b0bded10800000000000000
+      internalID: 2156574071687609829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 93
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f3b498473f8e50800000000000000
+      internalID: 6813725546106845557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_111
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 93
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542dbc7c4740a6d0800000000000000
+      internalID: -2981304559483411363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_112
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 93
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9af560a438b99e0800000000000000
+      internalID: -1613551687524439624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_113
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 258
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b10fc01af5c9ff0800000000000000
+      internalID: -28042352359630016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_114
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 258
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad03a096c464490800000000000000
+      internalID: -7762432893700220403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_115
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 258
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fdad9d22facbd20800000000000000
+      internalID: 3295701591547109221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
