@@ -34,6 +34,14 @@ public class PlayerController : MonoBehaviour
     public float wallJumpTime;
     private Animator anim;
 
+    bool isInvincible;
+    float invincibleTimer;
+
+    public int maxHealth = 5;
+    public float timeInvincible = 2.0f;
+    public int health { get { return currentHealth; } }
+    int currentHealth;
+
 
 
     void Start()
@@ -41,6 +49,7 @@ public class PlayerController : MonoBehaviour
         extraJumps = extraJumpsValue;
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        currentHealth = maxHealth;
     }
     void FixedUpdate()
     {
@@ -82,6 +91,27 @@ public class PlayerController : MonoBehaviour
         else
         {
             anim.SetBool("isRunning", true);
+        }
+
+        if (isInvincible)
+        {
+            invincibleTimer -= Time.deltaTime;
+            if (invincibleTimer < 0)
+                isInvincible = false;
+        }
+
+       /* if (Input.GetKey(KeyCode.O))
+        {
+            SavePlayer();
+
+        }*/
+        
+        
+        
+        
+        if (Input.GetKey(KeyCode.R))
+        {
+            LoadPlayer();
         }
 
 
@@ -160,6 +190,38 @@ public class PlayerController : MonoBehaviour
     void SetWallJumpingToFalse()
     {
         wallJumping = false;
+    }
+
+    public void ChangeHealth(int amount)
+    {
+        if (amount < 0)
+        {
+            if (isInvincible)
+                return;
+
+            isInvincible = true;
+            invincibleTimer = timeInvincible;
+        }
+
+        currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
+        Debug.Log(currentHealth / (float)maxHealth);
+    }
+
+    public void SavePlayer()
+    {
+        SaveSystem.SavePlayer(this);
+    }
+
+    public void LoadPlayer()
+    {
+        PlayerData data = SaveSystem.LoadPlayer();
+
+        Vector3 position;
+        position.x = data.position[0];
+        position.y = data.position[1];
+        position.z = data.position[2];
+        transform.position = position;
+
     }
 
 

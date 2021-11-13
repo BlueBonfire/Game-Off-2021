@@ -10,9 +10,23 @@ public class Patrol : MonoBehaviour
     private bool movingRight = true;
     public Transform groundDetection;
     public LayerMask whatIsGround;
+    public float dazedTime;
+    public float startDazedTime;
 
     void Update()
     {
+        if (dazedTime <= 0)
+        {
+            speed = 3;
+        }
+        else
+        {
+            speed = 0;
+            dazedTime -= Time.deltaTime;
+        }
+
+
+
         transform.Translate(Vector2.right * speed * Time.deltaTime);
 
         RaycastHit2D groundInfo = Physics2D.Raycast(groundDetection.position, Vector2.down, distance, whatIsGround);
