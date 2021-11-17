@@ -43,6 +43,7 @@ public class PlayerController : MonoBehaviour
     int currentHealth;
     public GameObject menuPanel;
     public GameObject deathEffect;
+    public GameObject warningMsg;
 
 
 
@@ -239,6 +240,13 @@ public class PlayerController : MonoBehaviour
         position.z = data.position[2];
         transform.position = position;
 
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("wWall"))
+        {
+            warningMsg.gameObject.SetActive(true);
+        }
     }
 
 

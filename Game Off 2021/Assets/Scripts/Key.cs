@@ -5,6 +5,7 @@ using UnityEngine;
 public class Key : MonoBehaviour
 {
     public GameObject block;
+    public GameObject warningMsg;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +24,7 @@ public class Key : MonoBehaviour
             block.gameObject.SetActive(false);
             Destroy(gameObject);
         }
+        warningMsg.gameObject.SetActive(false);
 
         
     }
