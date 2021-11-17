@@ -127,10 +127,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 123dcca378f12d9478c6cd39f86bd5bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  health: 1
+  deathEffect: {fileID: 3582848079987865336, guid: ed8dd038499509f43bf21dd180d7c175, type: 3}
   projectile: {fileID: 6898815519509427013, guid: b0704275c8c08ff469cdf720960a794a, type: 3}
   shootPos: {fileID: 864004979846807950}
   startTimeBtwShots: 3
-  health: 1
 --- !u!61 &1699661287440099017
 BoxCollider2D:
   m_ObjectHideFlags: 0

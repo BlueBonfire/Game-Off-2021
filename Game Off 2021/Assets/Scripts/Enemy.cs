@@ -6,7 +6,7 @@ public class Enemy : MonoBehaviour
 {
     public int health;
     private Patrol patrol;
-    //public GameObject deathEffect;
+    public GameObject deathEffect;
 
 
     private void Start()
@@ -18,7 +18,7 @@ public class Enemy : MonoBehaviour
 
         if (health <= 0)
         {
-            //Instantiate(deathEffect, transform.position, Quaternion.identity);
+            Instantiate(deathEffect, transform.position, Quaternion.identity);
             Destroy(gameObject);
 
 

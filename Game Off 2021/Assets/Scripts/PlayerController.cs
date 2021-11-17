@@ -41,6 +41,10 @@ public class PlayerController : MonoBehaviour
     public float timeInvincible = 2.0f;
     public int health { get { return currentHealth; } }
     int currentHealth;
+    public GameObject menuPanel;
+    public GameObject deathEffect;
+
+
 
 
 
@@ -50,6 +54,7 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         currentHealth = maxHealth;
+        LoadPlayer();
     }
     void FixedUpdate()
     {
@@ -111,9 +116,21 @@ public class PlayerController : MonoBehaviour
         
         if (Input.GetKey(KeyCode.R))
         {
-            LoadPlayer();
+            //LoadPlayer();
+        }
+        if (Input.GetKey(KeyCode.P))
+        {
+            menuPanel.gameObject.SetActive(true);
         }
 
+
+        if (currentHealth <= 0)
+        {
+            Instantiate(deathEffect, transform.position, Quaternion.identity);
+            Destroy(gameObject);
+
+
+        }
 
     }
     void Flip()

@@ -175,6 +175,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 1
+  deathEffect: {fileID: 3582848079987865336, guid: ed8dd038499509f43bf21dd180d7c175, type: 3}
 --- !u!114 &3500498025983219737
 MonoBehaviour:
   m_ObjectHideFlags: 0
