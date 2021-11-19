@@ -8,7 +8,7 @@ public class PauseMenu : MonoBehaviour
     public GameObject menuPanel;
     public void Menu()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
     public void PanelClose()
     {
@@ -19,7 +19,7 @@ public class PauseMenu : MonoBehaviour
         if (Input.GetKey(KeyCode.R))
         {
             //LoadPlayer();
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(3);
         }
     }
 }
