@@ -9,11 +9,14 @@ public class Projectile : MonoBehaviour
     public float distance;
     public int damage;
     public LayerMask whatIsSolid;
+    AudioSource audioSource;
+    public AudioClip damageClip;
 
     //public GameObject destroyEffect;
 
     private void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         Invoke("DestroyProjectile", lifeTime);
     }
 
@@ -40,8 +43,11 @@ public class Projectile : MonoBehaviour
         if (player != null)
         {
             player.ChangeHealth(-1);
+            audioSource.PlayOneShot(damageClip);
         }
-        Destroy(gameObject);
+        gameObject.GetComponent<SpriteRenderer>().enabled = false;
+        gameObject.GetComponent<Collider2D>().enabled = false;
+        Destroy(gameObject,0.4f);
     }
 
 }

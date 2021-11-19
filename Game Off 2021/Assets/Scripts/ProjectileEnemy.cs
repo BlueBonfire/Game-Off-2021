@@ -8,10 +8,11 @@ public class ProjectileEnemy : Enemy
     public Transform shootPos;
     private float timeBtwShots;
     public float startTimeBtwShots;
+    AudioSource audioSource;
     // Start is called before the first frame update
     void Start()
     {
-        
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -48,6 +49,7 @@ public class ProjectileEnemy : Enemy
         if (player != null)
         {
             player.ChangeHealth(-1);
+            audioSource.PlayOneShot(damageClip);
         }
     }
 }

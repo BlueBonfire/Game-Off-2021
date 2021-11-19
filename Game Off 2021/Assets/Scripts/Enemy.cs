@@ -7,11 +7,14 @@ public class Enemy : MonoBehaviour
     public int health;
     private Patrol patrol;
     public GameObject deathEffect;
+    AudioSource audioSource;
+    public AudioClip damageClip;
 
 
     private void Start()
     {
         patrol = GetComponent<Patrol>();
+        audioSource = GetComponent<AudioSource>();
     }
     public void Update()
     {
@@ -40,6 +43,7 @@ public class Enemy : MonoBehaviour
         if (player != null)
         {
             player.ChangeHealth(-1);
+            audioSource.PlayOneShot(damageClip);
         }
     }
 

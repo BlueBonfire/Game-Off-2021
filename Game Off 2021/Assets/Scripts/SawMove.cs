@@ -7,10 +7,13 @@ public class SawMove : MonoBehaviour
     public float speed = 5.0f;
     public int yPos = 1;
     public int xPos = 0;
+    AudioSource audioSource;
+    public AudioClip damageClip;
 
     // Start is called before the first frame update
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -31,6 +34,7 @@ public class SawMove : MonoBehaviour
         if (player != null)
         {
             player.ChangeHealth(-1);
+            audioSource.PlayOneShot(damageClip);
         }
     }
 }

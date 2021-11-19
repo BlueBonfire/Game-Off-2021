@@ -5,11 +5,14 @@ using UnityEngine;
 public class Damage : MonoBehaviour
 {
 
+    AudioSource audioSource;
+    public AudioClip damageClip;
+
 
 
     void Start()
     {
-      
+        audioSource = GetComponent<AudioSource>();
     }
     void OnTriggerStay2D(Collider2D other)
     {
@@ -18,7 +21,7 @@ public class Damage : MonoBehaviour
         if (controller != null)
         {
             controller.ChangeHealth(-1);
-           
+            audioSource.PlayOneShot(damageClip);
         }
         
     }

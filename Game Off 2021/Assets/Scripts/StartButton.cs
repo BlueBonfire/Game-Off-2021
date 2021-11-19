@@ -28,6 +28,21 @@ public class StartButton : MonoBehaviour
 
     private bool _AlreadyClicked = false;
 
+    AudioSource audioSource;
+    public AudioClip clickClip;
+
+
+    private void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
+    private void Update()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            audioSource.PlayOneShot(clickClip);
+        }
+    }
 
 
     public void InfoFolderTxtOpen()

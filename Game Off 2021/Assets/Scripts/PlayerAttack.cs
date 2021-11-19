@@ -11,10 +11,13 @@ public class PlayerAttack : MonoBehaviour
     public LayerMask whatIsEnemies;
     public int damage;
     private Animator anim;
+    AudioSource audioSource;
+    public AudioClip attackClip;
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -29,6 +32,8 @@ public class PlayerAttack : MonoBehaviour
                 for(int i = 0; i < enemiesToDamage.Length; i++)
                 {
                     enemiesToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
+                    audioSource.PlayOneShot(attackClip);
+
                 }
                 timeBtwAttack = startTimeBtwAttack;
             }
