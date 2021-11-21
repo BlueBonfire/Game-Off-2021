@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -129,8 +130,6 @@ public class PlayerController : MonoBehaviour
         {
             Instantiate(deathEffect, transform.position, Quaternion.identity);
             Destroy(gameObject);
-
-
         }
 
     }
@@ -248,6 +247,5 @@ public class PlayerController : MonoBehaviour
             warningMsg.gameObject.SetActive(true);
         }
     }
-
 
 }

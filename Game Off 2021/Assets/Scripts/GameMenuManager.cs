@@ -11,6 +11,8 @@ public class GameMenuManager : MonoBehaviour
     public GameObject title;
     public GameObject tutorial;
     public GameObject back;
+    public GameObject Page2;
+    public GameObject Page1;
 
 
 
@@ -39,5 +41,15 @@ public class GameMenuManager : MonoBehaviour
         tutorial.gameObject.SetActive(false);
         title.gameObject.SetActive(true);
         back.gameObject.SetActive(false);
+    }
+    public void Next()
+    {
+        Page1.gameObject.SetActive(false);
+        Page2.gameObject.SetActive(true);
+    }
+    public void Prev()
+    {
+        Page1.gameObject.SetActive(true);
+        Page2.gameObject.SetActive(false);
     }
 }
