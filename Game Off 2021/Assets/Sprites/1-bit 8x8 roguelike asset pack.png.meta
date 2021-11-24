@@ -434,6 +434,9 @@ TextureImporter:
   - first:
       213: -3114744391275161361
     second: 1-bit 8x8 roguelike asset pack_143
+  - first:
+      213: -2565406996864112012
+    second: 1-bit 8x8 roguelike asset pack_144
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -3549,7 +3552,7 @@ TextureImporter:
         width: 3
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3570,7 +3573,7 @@ TextureImporter:
         width: 3
         height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3578,6 +3581,27 @@ TextureImporter:
       bones: []
       spriteID: fe857ef8a7436c4d0800000000000000
       internalID: -3114744391275161361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1-bit 8x8 roguelike asset pack_144
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aec9fade7d56cd0800000000000000
+      internalID: -2565406996864112012
       vertices: []
       indices: 
       edges: []
