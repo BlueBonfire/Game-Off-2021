@@ -359,8 +359,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -26.798012}
+  m_SizeDelta: {x: 327.8308, y: 349.416}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &33646050
 MonoBehaviour:
@@ -382,34 +382,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Stalingrad\u2019da ya\u015Fayan tatl\u0131 bir hem\u015Fireyken sava\u015F
-    sonras\u0131 ailesinin de ya\u015Fad\u0131\u011F\u0131 \u015Fehrin de kald\u0131\u011F\u0131
-    durumdan \xF6t\xFCr\xFC Nazilere kar\u015F\u0131 son direni\u015Fini sergileyen
-    ve bir o kadar da y\u0131pranan bir K\u0131z\u0131l Ordu askerine d\xF6n\xFC\u015Fm\xFC\u015F
-    durumda. Bence oyunda en \xF6n plana \xE7\u0131kan karakter de kendisi oluyor.
-    Oyuna eklenen t\u0131rmanma \xF6zelli\u011Fini ise sadece Polina ile ger\xE7ekle\u015Ftirebiliyoruz.
-    Hatta bazen o kadar \xE7ok t\u0131rmanma gerektiren duvarlar oluyor ki bazen
-    t\u0131rmanma sim\xFClasyonu hissiyat\u0131na kap\u0131labilirken, bazen ise
-    Assassin\u2019s Creed serisindeki gibi olmasa da binalar\u0131n \xFCzerine Polina
-    taraf\u0131ndan t\u0131rman\u0131yor ve \xE7at\u0131lardan hareket ediyoruz.
-    \r\n\rDi\u011Fer karakterlerimiz ise bombalar, The Last of Us\u2019taki gibi
-    d\xFC\u015Fman\u0131 hissetme ya da Batlefield V\u2019teki gibi pilotluk gibi
-    \xF6zellikleri ile \xF6n plana \xE7\u0131k\u0131yor. Zaten oyun s\u0131ras\u0131nda
-    hemen bunu \xF6\u011Freneceksiniz. Ayr\u0131ca Polina, The Last of Us: Part II\u2019de
-    yer alan Laura Bailey taraf\u0131ndan canland\u0131r\u0131l\u0131yor. Bunu da
-    ek olarak belirteyim. \r\nSize silah zoruyla m\u0131 Call of Duty yapt\u0131rd\u0131lar
-    Sledgehammer?\r\nCall of Duty serisi, Modern Warfare ile IW 1.8 grafik motoruna
-    ge\xE7ti ve Call of Duty serisine \xF6z\xFCne lay\u0131k bir bi\xE7imde neredeyse
-    tamamen yenilenmi\u015F bir \u015Fekilde m\xFCkemmel bir g\xF6rsellik ile kar\u015F\u0131m\u0131zda.
-    Yine de ge\xE7en sene bu motora ge\xE7en Treyarch\u2019\u0131n geli\u015Ftirdi\u011Fi
-    Black Ops Cold War\u2019un, proje sonuna do\u011Fru Infinity Ward ile Sledgehammer
-    Games oyunun yard\u0131ma ko\u015Fmu\u015Ftu fakat Vanguard i\xE7in bu di\u011Fer
-    firmalar\u0131n hi\xE7biri yard\u0131m etmemi\u015F olsa gerek ki \xF6zensizlikler
-    hat safhada. Resmen oyunun silah zoruyla Activision taraf\u0131ndan size yapt\u0131r\u0131ld\u0131\u011F\u0131na
-    dair kuruntular ya\u015Famaya ba\u015Flad\u0131m. \r\n\r\n"
+  m_text: "\nSent: Dr Huygens\r\n\nSubject: 413134S.0V S4 Virus \r\n\nDear Dr.Huygens\r\nFrom
+    the moment the virus spread, I did some research on my own and created an A4-SS
+    version of SAI-borg as a prototype. I think I can find the source of the virus
+    with the spyware in this SAI-borg. I also thank you for the new infected SAI-borg
+    you sent me, and now I want to try this virus in the SAI-borg I created. If my
+    calculations do not mislead me, Spyware should find the source of the virus after
+    38 hours and 14 minutes. I will notify you about new news\r\n_________________\r\nBaglintcsk@email.com\r\n38124-21354-42154\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -440,7 +422,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -472,7 +454,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &33646051
@@ -815,7 +797,7 @@ RectTransform:
   m_Father: {fileID: 1819966961}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0.49325454}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -1465,9 +1447,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Text
-
-'
+  m_text: "Document \nNo 165"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -1476,8 +1456,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1494,8 +1474,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16
-  m_fontSizeBase: 16
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1572,14 +1552,15 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 797197664}
   m_Father: {fileID: 2122661981}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -29.6613}
+  m_SizeDelta: {x: 327.8308, y: 355.1425}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &239972308
 MonoBehaviour:
@@ -1601,35 +1582,24 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Zombi modu, klasik zombi modu i\u015Fte. \xDCzerinde durmaya gerek yok.
-    Bununla ilgili haz\u0131r yay\u0131nlanan tan\u0131t\u0131m videolar\u0131 da
-    i\u015Finizi g\xF6rebilir. Oyunda sans\xFCr yok. Kan, cesetler, \xF6l\xFCmler
-    +18 diyebilece\u011Fimiz seviyede. Hatta fragmanlardaki Reichsadler yani gamal\u0131
-    demir ha\xE7lar\u0131n sadece bir art\u0131 \u015Fekliyle swastika yerine i\u015Flenmi\u015F
-    olmas\u0131, sans\xFCr olaca\u011F\u0131 hissiyat\u0131 vermi\u015Fti. Sadece
-    o k\u0131s\u0131mlarda bir art\u0131 i\u015Fareti var fakat onun d\u0131\u015F\u0131nda
-    her t\xFCrl\xFC amblemler oyunda mevcut. Onlara dokunulmam\u0131\u015F ve oyun
-    \xE7\u0131kmadan \xF6nce ya\u015Fanan sans\xFCr haberleri de b\xF6ylelikle yalanlanm\u0131\u015F
-    oldu. \r\nGrafikler, son iki oyuna k\u0131yasla ayn\u0131 seviyede de\u011Fil.
-    \xD6zensiz \xE7evre modellemeleri y\xFCz\xFCnden b\xF6yle g\xF6z alg\u0131s\u0131na
-    da d\xFC\u015Fm\xFC\u015F olabiliriz fakat yeni nesil Call of Duty denen bir
-    oyuna yak\u0131\u015Fmayacak seviyede aceleye getirilmi\u015F gibi. Ara sahneler
-    ise m\xFCkemmel. Bu oyun \xE7\u0131kar \xE7\u0131kmaz hayal k\u0131r\u0131kl\u0131\u011F\u0131na
-    u\u011Frayan oyuncular\u0131n, Modern Warfare 2\u2019yi neden daha \xE7ok beklediklerini
-    \u015Fimdi daha iyi anl\u0131yoruz.  \r\nBu Call of Duty oyunu, resmen \u0130kinci
-    D\xFCnya Sava\u015F\u0131 temal\u0131 olarak gaz\u0131m\u0131z al\u0131nan bir
-    yap\u0131m olmu\u015F. \u015Eimdiye kadarki en s\xF6n\xFCk Call of Duty senaryosuna
-    sahip. Oynan\u0131\u015F fena de\u011Fil ama sadece y\u0131ll\u0131k bir Call
-    of Duty i\u015Fte. S\u0131rf tek ki\u015Filik mod i\xE7in sat\u0131n almay\u0131
-    d\xFC\u015F\xFCn\xFCyorsan\u0131z, indirimlerin gelmesini bekleyin derim. Aksi
-    taktirde buna 60 Dolar/Euro vermek, di\u011Fer kaliteli oyunlara yap\u0131lan
-    hakaret bence. \u015Eimdi \u201COyunu dolar ve euroya g\xF6re mi al\u0131yoruz?\u201D
-    diyecek olursan\u0131z da di\u011Fer firmalar gibi T\xFCrkiye i\xE7in ayr\u0131
-    bir fiyat politikas\u0131 olmamas\u0131 durumunda evet. Ah bir de ekstra eklenen
-    \xFCcretler var. K\u0131saca daha sonra oynasan\u0131z da olur.    "
+  m_text: '
+
+
+
+
+
+    Following the mass destruction of the Ai, many people opposed
+    the government and the Anc Borg Co. and led to large-scale riots and riots across
+    the country. This situation has not only damaged the country''s economy, but
+    also the people''s lives in many ways. Currently, many measures are being taken
+    to control the situation and correct SAI-borgs. Cimexologists say they can prevent
+    viruses with new projects and fix a permanent security system. Dr Huygens said
+    that we are trying to build a more sustainable system with what we have learned
+    from the A virus. He also said he is confident that they would defeat the B virus
+    as soon as possible.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1660,7 +1630,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -1692,7 +1662,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &239972309
@@ -1886,9 +1856,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Text
-
-'
+  m_text: "\u201CLA TECHIBUNE\u201D\n2039 oct"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -1897,8 +1865,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1915,8 +1883,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16
-  m_fontSizeBase: 16
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1995,7 +1963,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1700942694}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -3292,8 +3260,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -147.4515}
-  m_SizeDelta: {x: 327.8308, y: 590.7228}
+  m_AnchoredPosition: {x: -8.75, y: -36}
+  m_SizeDelta: {x: 327.8308, y: 375.0093}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &417029729
 MonoBehaviour:
@@ -3316,23 +3284,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\n\n\n     \n                                                                           
-    \nA Revolution in World History: The Application of Super Artificial Intelligence
-    (SAI) in the World Begins. Scientists call SAI-built robots SAI-borgs. What these
-    scientists have finally revealed is that Ai can express and think even more than
-    humans. Although this invention, which can increase the pace of development in
-    all areas from industry to industry, is condemned by many scientists and they
-    think that such an invention will bring the end of humanity. After a long time,
-    Anc Borg Co. in defiance of the question marks in the minds finished their inventions
-    and signed a revolution. These Ai, who is completely loyal to the people, have
-    already started to be used as a test in many projects for the development of
-    humanity and to be further developed. After the presentation of Anc Borg Co.
-    and its gaining so much popularity, New Areas began to develop with the support
-    of the state. \"This is just the beginning. The future is more important to us,
-    and we will take bigger steps towards the future of humanity\" the CEO of the
-    Anc Borg Co. told the media. It should also be noted that the existing technologies
-    are slowly being phased out or adapted to SAI, leading to a new technological
-    evolution.\r                                                                           
-    \n"
+    \nThe use of SAI-borgs has spread to industry, military, education, health, and
+    more between 2032 and 2034. That meant this was the next stage of civilization.
+    Large companies were formed to make money from this business. At a time when
+    the application of SAI was exploding, these companies made billions. The spread
+    of SAI-borgs led to the emergence of a new century in the world and a major role
+    in the lives of people. SAI's were originally designed as an intellect that could
+    solve people's problems. The development of these Ai was so great that a new
+    \"race\" arose, just like the humans. The only thing that made them different
+    from us was that they were superior to us."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -3366,7 +3326,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -3631,14 +3591,15 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1430042489}
   m_Father: {fileID: 319124519}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -113.01871}
+  m_SizeDelta: {x: 327.8308, y: 521.8573}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &443472542
 MonoBehaviour:
@@ -3660,32 +3621,19 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Oyunun ilk ve son b\xF6l\xFCm\xFC m\xFCkemmel tasarlanm\u0131\u015F. Son
-    b\xF6l\xFCm ise di\u011Fer b\xF6l\xFCmlere k\u0131yasla biraz daha uzun ve her
-    karakterimizin ki\u015Fisel \xF6zelliklerini kullanarak istedi\u011Fimizi yapabiliyoruz.
-    Stalingrad\u2019\u0131n yer ald\u0131\u011F\u0131 Lady Nightingale b\xF6l\xFCm\xFC
-    ise inan\u0131lmaz m\xFCkemmel. Hatta \u201CLady Nightingale\u201D b\xF6l\xFCm\xFC
-    tek ba\u015F\u0131na Vanguard\u2019\u0131 temsil ediyor diyebilirim. Buras\u0131
-    ayr\u0131ca oyunun ilk oynan\u0131\u015F videosunda da yay\u0131nlanan b\xF6l\xFCmd\xFC.
-    Bu b\xF6l\xFCmde Polina\u2019n\u0131n ailesi ile ya\u015Fad\u0131\u011F\u0131
-    evin i\xE7erisini ve bu evin i\xE7erisindeki t\xFCm detaylar\u0131 \xE7ok g\xFCzel
-    modelleyip yerine oturtmu\u015Flar. G\xFCn\xFCm\xFCzde antika diyebilece\u011Fimiz
-    bir\xE7ok \xE7elik tencereden ve bak\u0131r demlikten tutun, piyano ve Stalin
-    heykeline kadar her \u015Fey o g\xFCn\xFCn ko\u015Fullar\u0131na g\xF6re \xE7ok
-    g\xFCzel modellenmi\u015F ince detaylar olarak dikkatimi \xE7ekti. Sebebini d\xFCr\xFCst
-    olmak gerekirse Berlin\u2019de gitti\u011Fim DDR M\xFCzesine de ba\u011Flayabilirim.
-    Yak\u0131n zamanda gitti\u011Fim m\xFCzedeki t\xFCm \xFCr\xFCnler neredeyse o
-    b\xF6l\xFCmde tek tek evin i\xE7ine yerle\u015Ftirilmi\u015F gibiydi. Bu denli
-    ev dekorlar\u0131n\u0131 ve detaylar\u0131n\u0131 yapan firma, gel g\xF6r sava\u015F
-    alanlar\u0131ndaki hi\xE7bir \u015Feye \xF6zenmemi\u015Fler. \r\nPolina\u2019n\u0131n,
-    Nazilere kar\u015F\u0131 duru\u015Fu, Stalingrand\u2019\u0131n bir anda sava\u015F
-    alan\u0131na d\xF6nmesi, ayd\u0131nlatma, hava durumu ve y\xFCz animasyonlar\u0131
-    k\u0131saca her \u015Feyi oyunun g\xF6rsel olarak \xE7ok etkileyiciydi. \xD6zellikle
-    son b\xF6l\xFCm olan Berlin\u2019de gece vakti ya\u015Fanan sava\u015F, \u0130kinci
-    D\xFCnya Sava\u015F\u0131 d\xF6nemine ait verilmesi gereken her \u015Feyi vermi\u015F
-    durumdayd\u0131. Ya\u011Fan ya\u011Fmurun g\xFCzelli\u011Fi, alan\u0131 \xE7evreleyen
-    \u0131\u015F\u0131klar ve Nazi flamalar\u0131 alt\u0131nda kalan patlamalar,
-    \xE7at\u0131\u015Fmalar ger\xE7ekten muazzamd\u0131. "
+  m_text: "\n\n\n\n2036 Aug 12: The first virus was uploaded to the Internet by rebel
+    radical groups (Corrosives) concerned about the hegemony of artificial intelligence.
+    the first virus called A-virus(413134S.0V S3) \r\n\n2036 Oct 07: The virus has
+    started to disrupt the work of soldier AIs. In the example of this virus, the
+    State Agency for Combating All Threats (which could disrupt the work of SAIs)
+    was established and the Law was adopted.\r\n\n2036 Dec 15: According to the law,
+    strong programmers were gathered and academic programmers, popularly known as
+    SAI doctors, were trained and a new technical field was created. This technical
+    field was called cimexology, and programmers were called cimexologists. The main
+    task of Cimexologists was to prevent corruption in the desired area in which
+    SAIs operate, formulate ways to fight the virus, and restore the previously efficient
+    (safe) operation of already corrupted SAI-borgs. Cimexologists eventually defeated
+    the A-virus.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -3719,7 +3667,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -3884,8 +3832,8 @@ RectTransform:
   m_Father: {fileID: 1136916243}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.49922365}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0, y: 0.20158073}
+  m_AnchorMax: {x: 1, y: 0.9904146}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -3927,85 +3875,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 472088557}
   m_CullTransparentMesh: 1
---- !u!1 &483273451
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 483273454}
-  - component: {fileID: 483273453}
-  - component: {fileID: 483273452}
-  m_Layer: 5
-  m_Name: Time
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &483273452
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 483273451}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_FontData:
-    m_Font: {fileID: 12800000, guid: b6ebe6ec55bdd9949a2fd33810b86f26, type: 3}
-    m_FontSize: 20
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 2
-    m_MaxSize: 40
-    m_Alignment: 1
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: 
---- !u!222 &483273453
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 483273451}
-  m_CullTransparentMesh: 1
---- !u!224 &483273454
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 483273451}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1700942694}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0.5}
-  m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -62, y: -2}
-  m_SizeDelta: {x: 160, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &491111135
 GameObject:
   m_ObjectHideFlags: 0
@@ -4088,8 +3957,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1863082390}
   m_HandleRect: {fileID: 1863082389}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Value: 1.0000011
+  m_Size: 0.83296144
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4720,9 +4589,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Text
-
-'
+  m_text: Chinese Room Experiment
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -4731,8 +4598,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4749,8 +4616,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16
-  m_fontSizeBase: 16
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4856,10 +4723,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: from:Professor
+  m_text: sent:Dr Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4922,7 +4789,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &602890549
@@ -4965,7 +4832,7 @@ RectTransform:
   m_Father: {fileID: 440599343}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0.25152123}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -5090,8 +4957,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1975497969}
   m_HandleRect: {fileID: 1975497968}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Value: 1.0000008
+  m_Size: 0.84661275
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -5511,10 +5378,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: from:Professor
+  m_text: sent:Dr Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5577,7 +5444,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &677429598
@@ -6041,6 +5908,408 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 738479051}
   m_CullTransparentMesh: 1
+--- !u!1 &760774663
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 760774664}
+  - component: {fileID: 760774666}
+  - component: {fileID: 760774665}
+  m_Layer: 5
+  m_Name: Text (TMP) (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &760774664
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760774663}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1476738132}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 7, y: 326}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &760774665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760774663}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: " \u201CAnc Borg Co. Archives\u201D Entry No 157 C"
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 16
+  m_fontSizeBase: 16
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: -83.9003, y: 0, z: -56.213318, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &760774666
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760774663}
+  m_CullTransparentMesh: 1
+--- !u!1 &797197663
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 797197664}
+  - component: {fileID: 797197666}
+  - component: {fileID: 797197665}
+  m_Layer: 5
+  m_Name: Text (TMP) (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &797197664
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797197663}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 239972307}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 20, y: 139}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &797197665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797197663}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: "\u201CLA TECHIBUNE\u201D Newspaper article\r\n\nOctober 2039\r\n"
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 16
+  m_fontSizeBase: 16
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: -83.9003, y: 0, z: -56.213318, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &797197666
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797197663}
+  m_CullTransparentMesh: 1
+--- !u!1 &803078175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 803078178}
+  - component: {fileID: 803078177}
+  - component: {fileID: 803078176}
+  m_Layer: 5
+  m_Name: Time
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &803078176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 803078175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 20
+  m_fontSizeBase: 20
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &803078177
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 803078175}
+  m_CullTransparentMesh: 1
+--- !u!224 &803078178
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 803078175}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1700942694}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -62, y: -2}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &820106526
 GameObject:
   m_ObjectHideFlags: 0
@@ -6377,9 +6646,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 518e2dac7b9611b41b083e048a882d4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  theDisplay: {fileID: 483273451}
-  hour: 0
-  minutes: 0
+  theDisplay: {fileID: 803078176}
 --- !u!1 &874499088
 GameObject:
   m_ObjectHideFlags: 0
@@ -6617,6 +6884,142 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &953404839
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 953404840}
+  - component: {fileID: 953404842}
+  - component: {fileID: 953404841}
+  m_Layer: 5
+  m_Name: Text (TMP) (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &953404840
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953404839}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1288957089}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 12.1, y: 248}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &953404841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953404839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: " \u201DMODERN TIMES\u201D Newspaper article \n                                     
+    \r                                                                                                                                            
+    \n  2032 Jan 23 \r     "
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 16
+  m_fontSizeBase: 16
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 1
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: -83.9003, y: 0, z: -56.213318, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &953404842
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953404839}
+  m_CullTransparentMesh: 1
 --- !u!1 &959281960
 GameObject:
   m_ObjectHideFlags: 0
@@ -6995,7 +7398,7 @@ RectTransform:
   m_Father: {fileID: 1564593928}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0.37670934}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -7095,9 +7498,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Text
+  m_text: 'Modern Times
 
-'
+    jan 23'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -7106,8 +7509,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -7124,8 +7527,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16
-  m_fontSizeBase: 16
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -7550,9 +7953,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Text
-
-'
+  m_text: "Archive \nEntry 157"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -7561,8 +7962,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -7579,8 +7980,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16
-  m_fontSizeBase: 16
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -8326,14 +8727,15 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1220318533}
   m_Father: {fileID: 1724665832}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -354.16574}
+  m_SizeDelta: {x: 327.8308, y: 1004.1514}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1201063883
 MonoBehaviour:
@@ -8355,25 +8757,50 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Oyunun yapay zekas\u0131 ise ger\xE7ekten berbatt\u0131. Hatta bu oyun
-    sayesinde \u201Cyapay zekal\u0131\u201D diye de bir argo icat edebiliriz. K\xF6t\xFC
-    m\xFC? K\xF6t\xFC ama umurumda da olmad\u0131. D\xFC\u015Fmanlar\u0131 \xF6ld\xFCrmek
-    kolayd\u0131 ve \xE7ok can s\u0131k\u0131c\u0131 k\u0131s\u0131mlar olmad\u0131
-    ama bununla birle\u015Fen baz\u0131 buglar sinir bozucu oldu. Hatta Avustralyal\u0131
-    Lucas Riggs\u2019in yer ald\u0131\u011F\u0131 Afrika g\xF6revlerinde, bir kenara
-    ve askerin olmad\u0131\u011F\u0131 yere yat\u0131n. Bir yerden bomba patl\u0131yor
-    ve an\u0131nda geberip gidiyorsunuz. Bomba nerden geldi, roket nerden at\u0131ld\u0131?
-    Yok g\xF6z\xFCkm\xFCyor. Resmen hareketli olal\u0131m ve bekleme yapmayal\u0131m
-    (oyuncu bekleme yapma) diye b\xF6yle bir \xF6l\xFCm sebebi eklemi\u015Fler oyuna.
-    Cidden deneyin. Umar\u0131m sadece bana \xF6zg\xFC bir sa\xE7mal\u0131kt\u0131r
-    ve ben yan\u0131l\u0131yorumdur. \r\n\rAyr\u0131ca u\xE7u\u015F g\xF6revleri
-    ise cidden s\u0131k\u0131c\u0131 ve sinir bozucu. Sen bir FPS oyunusun. Biliyorum
-    kitle ara\xE7, u\xE7ak falan s\xFCrmek istiyorum diyorlar, Battlefield serisi
-    bu konuda en iyisini yap\u0131yor ama biz Call of Duty serisinde omuzdan do\u011Fru
-    silah\u0131m\u0131za bakarak ilerlemeyi tercih ediyoruz. "
+  m_text: '
+
+
+
+
+
+    Searle''s thought experiment begins with this hypothetical premise:
+    suppose that artificial intelligence research has succeeded in constructing a
+    computer that behaves as if it understands Chinese. It takes Chinese characters
+    as input and, by following the instructions of a computer program, produces other
+    Chinese characters, which it presents as output. Suppose, says Searle, that this
+    computer performs its task so convincingly that it comfortably passes the Turing
+    test: it convinces a human Chinese speaker that the program is itself a live
+    Chinese speaker. To all of the questions that the person asks, it makes appropriate
+    responses, such that any Chinese speaker would be convinced that they are talking
+    to another Chinese-speaking human being. The question Searle wants to answer
+    is this: does the machine literally "understand" Chinese? Or is it merely simulating
+    the ability to understand Chinese? Searle calls the first position "strong AI"
+    and the latter "weak AI".
+
+    Searle then supposes that he is in a closed room
+    and has a book with an English version of the computer program, along with sufficient
+    papers, pencils, erasers, and filing cabinets. Searle could receive Chinese characters
+    through a slot in the door, process them according to the program''s instructions,
+    and produce Chinese characters as output. If the computer had passed the Turing
+    test this way, it follows, says Searle, that he would do so as well, simply by
+    running the program manually.
+
+    Searle asserts that there is no essential
+    difference between the roles of the computer and himself in the experiment. Each
+    simply follows a program, step-by-step, producing a behavior which is then interpreted
+    by the user as demonstrating intelligent conversation. However, Searle himself
+    would not be able to understand the conversation. ("I don''t speak a word of
+    Chinese," he points out.) Therefore, he argues, it follows that the computer
+    would not be able to understand the conversation either. Searle argues that,
+    without "understanding" (or "intentionality"), we cannot describe what the machine
+    is doing as "thinking" and, since it does not think, it does not have a "mind"
+    in anything like the normal sense of the word. Therefore, he concludes that the
+    "strong AI" hypothesis is false.
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -8404,7 +8831,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -8436,7 +8863,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1201063884
@@ -8446,6 +8873,141 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1201063881}
+  m_CullTransparentMesh: 1
+--- !u!1 &1220318532
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1220318533}
+  - component: {fileID: 1220318535}
+  - component: {fileID: 1220318534}
+  m_Layer: 5
+  m_Name: Text (TMP) (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1220318533
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1220318532}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1201063882}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 7, y: 462}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1220318534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1220318532}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: "\u201CEncyclopedia of Technologies\u201D Volume 17: John Searle\u2019s
+    Chinese room thought experiment"
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 16
+  m_fontSizeBase: 16
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: -83.9003, y: 0, z: -56.213318, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1220318535
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1220318532}
   m_CullTransparentMesh: 1
 --- !u!1 &1242224513
 GameObject:
@@ -8602,8 +9164,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1950503754}
   m_HandleRect: {fileID: 1950503753}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Value: 1.0000002
+  m_Size: 0.56685996
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -8674,14 +9236,15 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 953404840}
   m_Father: {fileID: 874499089}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -143.97229}
+  m_SizeDelta: {x: 327.8308, y: 583.7645}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1288957090
 MonoBehaviour:
@@ -8703,25 +9266,27 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Dark Souls[b] is a 2011 action role-playing game developed by FromSoftware
-    and published by Namco Bandai Games. A spiritual successor to FromSoftware's
-    Demon's Souls, the game is the second instalment in the Souls series. Dark Souls
-    takes place in the fictional kingdom of Lordran, where players assume the role
-    of a cursed undead character who begins a pilgrimage to discover the fate of
-    their kind. A port for Microsoft Windows was released in August 2012, which featured
-    additional content not seen in the original PlayStation 3 and Xbox 360 versions.
-    In October 2012, the new content was made downloadable for consoles under the
-    subtitle Artorias of the Abyss.\r\n\r\nDark Souls has been cited as one of the
-    best video games of all time. Critics praised the depth of its combat, intricate
-    level design, and use of flavour text. However, the game's difficulty received
-    mixed reviews, with some criticizing it for being too unforgiving. The original
-    Windows version of the game was less well-received, with criticism directed at
-    several technical issues. By April 2013, the game had sold over two million copies
-    worldwide. Two sequels were released in the mid-2010s, while a remastered version
-    was released in 2018.\r\n\r"
+  m_text: "\n\n\n     \n                                                                           
+    \nA Revolution in World History: The Application of Super Artificial Intelligence
+    (SAI) in the World Begins. Scientists call SAI-built robots SAI-borgs. What these
+    scientists have finally revealed is that Ai can express and think even more than
+    humans. Although this invention, which can increase the pace of development in
+    all areas from industry to industry, is condemned by many scientists and they
+    think that such an invention will bring the end of humanity. After a long time,
+    Anc Borg Co. in defiance of the question marks in the minds finished their inventions
+    and signed a revolution. These Ai, who is completely loyal to the people, have
+    already started to be used as a test in many projects for the development of
+    humanity and to be further developed. After the presentation of Anc Borg Co.
+    and its gaining so much popularity, New Areas began to develop with the support
+    of the state. \"This is just the beginning. The future is more important to us,
+    and we will take bigger steps towards the future of humanity\" the CEO of the
+    Anc Borg Co. told the media. It should also be noted that the existing technologies
+    are slowly being phased out or adapted to SAI, leading to a new technological
+    evolution.\r                                                                           
+    \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -8752,7 +9317,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -8784,7 +9349,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1288957091
@@ -8878,7 +9443,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 151757160}
   m_Direction: 2
   m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Size: 0.50674546
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -9628,10 +10193,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: from:Professor
+  m_text: from:Dr Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -9694,7 +10259,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1411579329
@@ -9874,6 +10439,140 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1430042488
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1430042489}
+  - component: {fileID: 1430042491}
+  - component: {fileID: 1430042490}
+  m_Layer: 5
+  m_Name: Text (TMP) (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1430042489
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430042488}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 443472541}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 15, y: 219}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1430042490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430042488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: "\u201CGovernment Technologies Library\u201D Log Document No 165"
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 16
+  m_fontSizeBase: 16
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: -83.9003, y: 0, z: -56.213318, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1430042491
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1430042488}
+  m_CullTransparentMesh: 1
 --- !u!1 &1446931921
 GameObject:
   m_ObjectHideFlags: 0
@@ -9906,7 +10605,7 @@ RectTransform:
   m_Father: {fileID: 896170624}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0.60870415}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -10031,8 +10730,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1647629688}
   m_HandleRect: {fileID: 1647629687}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Value: 0
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -10103,14 +10802,15 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 760774664}
   m_Father: {fileID: 419860918}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -230.09052}
+  m_SizeDelta: {x: 327.8308, y: 756.0009}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1476738133
 MonoBehaviour:
@@ -10132,38 +10832,30 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Forza Horizon 5'i ilk defa \xE7al\u0131\u015Ft\u0131rmadan \xF6nce, ger\xE7ekten
-    \xE7ok heyecanl\u0131yd\u0131m. Meksika'n\u0131n do\u011Fas\u0131n\u0131 ve manzaralar\u0131n\u0131
-    inan\u0131lmaz merak ediyor ve Playground Games'in ortaya \xE7\u0131karm\u0131\u015F
-    oldu\u011Fu g\xFCzelli\u011Fe ad\u0131m atmak i\xE7in sab\u0131rs\u0131zlan\u0131yordum.
-    Oyunun ana men\xFCs\xFCne girdi\u011Fimde, ilk yapt\u0131\u011F\u0131m \u015Feylerden
-    bir tanesi, Xbox kontrolc\xFCmdeki titre\u015Fimi en y\xFCkse\u011Fe \xE7ekmek
-    oldu. \xD6zellikle yar\u0131\u015F oyunlar\u0131nda olduk\xE7a \xF6nemli bir
-    role sahip olan bu titre\u015Fimlerin, daha iyi bir s\xFCr\xFC\u015F hissiyat\u0131
-    sa\u011Flad\u0131\u011F\u0131n\u0131 d\xFC\u015F\xFCn\xFCyorum.\r\nEpey heyecanl\u0131
-    bir a\xE7\u0131l\u0131\u015F g\xF6reviyle ba\u015Flayan Forza Horizon 5, kelimenin
-    tam anlam\u0131yla fevkalade g\xF6z\xFCk\xFCyordu. Playground Games'in bizlere
-    m\xFCthi\u015F manzaralar sunmas\u0131na her ne kadar al\u0131\u015Fm\u0131\u015F
-    olsak da, Meksika'n\u0131n muhte\u015Fem manzaralar\u0131 kar\u015F\u0131s\u0131nda
-    b\xFCy\xFClenmemek elde de\u011Fil. \xD6zellikle \u0130ngiltere'de ge\xE7en uzun
-    Forza Horizon 4 ser\xFCvenimizin ard\u0131ndan, bence Meksika m\xFCkemmel bir
-    se\xE7im olmu\u015F. \u0130ngiltere, zaten oyunlar\u0131n b\xFCy\xFCk \xE7o\u011Funlu\u011Funda
-    denk geldi\u011Fimiz bir \xFClke. Meksika gibi ilgi \xE7ekici bir atmosfere sahip
-    bir \xFClkenin se\xE7ilmesi, ger\xE7ekten \xE7ok iyi olmu\u015F. Oyun i\xE7erisindeki
-    atmosferi g\xFCzelle\u015Ftiren, aktif bir yanarda\u011F bile bulunuyor.\r\nBizlere
-    Forza Horizon 5'in g\xFCzelliklerini k\u0131saca g\xF6steren heyecanl\u0131 'minik'
-    ilk g\xF6revin ard\u0131ndan, \xFC\xE7 farkl\u0131 ara\xE7 se\xE7imiyle kar\u015F\u0131
-    kar\u015F\u0131ya b\u0131rak\u0131ld\u0131m. Oyunun tan\u0131t\u0131mlar\u0131n\u0131
-    veya oynan\u0131\u015F videolar\u0131n\u0131 izlemeyenler i\xE7in bu k\xFC\xE7\xFCk
-    s\xFCrprizi bozmak istemesem de, i\xE7lerinden favorim olan Ford Bronco'dan bahsetmek
-    istiyorum. Meksika'n\u0131n engebeli ve arazimsi topraklar\u0131ndaki en b\xFCy\xFCk
-    dostum olan Ford Bronco, benim vazge\xE7ilmez arac\u0131m h\xE2line geldi. Ger\xE7ekten
-    muhte\u015Fem g\xF6z\xFCken McLaren Senna'y\u0131 bile b\u0131rakmama sebep olan
-    Bronco, Forza Horizon 5 maceramdaki en b\xFCy\xFCk e\u015Flik\xE7im olmaya devam
-    edecek gibi g\xF6z\xFCk\xFCyor.\r\n\r\n"
+  m_text: "\n\n\n\nA lot of work has been done in the field of cyber security of
+    SAI-borgs. Because they had seen the damage that a virus could do before, the
+    government was cautious. However, radical groups attacked more violently and
+    create the more resistant B-virus(413134S.0V S4) in 12 sep 2038. During this
+    period (late 2038-early 2039) there were major incidents between the Corrosives
+    and the combined forces (Cimexologists and the police), both cyber and physical.
+    \r\nCorceives boss Ace Edd (a criminal wanted by the police) was a well-educated
+    programmer who once worked for one of the first SAI-borg companies (Anc Borg
+    Co.). He created and developed both the A-virus and the B-virus. The B virus
+    he created was almost destroyed SAI-borgs. The A-virus would cause the SAI-borgs
+    to break down - either stop completely or become aggressive. But the B-virus
+    was something else entirely. The SAI-borgs, who were infected with the virus
+    in the main picture, were in vain, squealing and laughing. They are not serious,
+    they do not approach anything, they joke with people, they form and distribute
+    ridiculous games-music-pictures or films, they banish civilization and take it
+    back. People's trust in SAIs was declining between 2038 and 2039;\r\nPeople began
+    to believe that SAI-borgs was unserious and useless. The spheres of activity
+    and productivity of the SAI-borgs were weakening; people were trying to return
+    to the traditional system. SAI Companies were losing billions of dollars, which
+    was unacceptable to them. But they weren't completely defeated yet, and the technology
+    cartels were pouring huge amounts of money into the fight.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -10194,7 +10886,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -10226,7 +10918,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1476738134
@@ -10294,10 +10986,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: from:Professor
+  m_text: from:Dr Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -10360,7 +11052,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1498558160
@@ -10453,8 +11145,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1446931923}
   m_HandleRect: {fileID: 1446931922}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Value: 1.0000002
+  m_Size: 0.39129585
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -10631,9 +11323,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Text
+  m_text: 'SAI-TECH
 
-'
+    Volume2'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -10642,8 +11334,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -10660,8 +11352,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 16
-  m_fontSizeBase: 16
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -10744,7 +11436,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 12.1, y: 252}
+  m_AnchoredPosition: {x: 19, y: 146}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1554864909
@@ -10767,9 +11459,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: " \u201DMODERN TIMES\u201D Newspaper article \n                                     
-    \r                                                                                                                                            
-    \n  2032 Jan 23 \r     "
+  m_text: "\u201CThe History of SAI TECH\u201D \n\nVolume 2 Paragraph 04"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -10803,7 +11493,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -10928,8 +11618,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 472088559}
   m_HandleRect: {fileID: 472088558}
   m_Direction: 2
-  m_Value: 1.0000004
-  m_Size: 0.50077635
+  m_Value: 0.95460725
+  m_Size: 0.78883386
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -11090,8 +11780,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2007928577}
   m_HandleRect: {fileID: 2007928576}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Value: 1
+  m_Size: 0.294597
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -11166,7 +11856,7 @@ RectTransform:
   m_Father: {fileID: 1426903351}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -11462,9 +12152,9 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1022446941}
-  - {fileID: 483273454}
   - {fileID: 1738383904}
   - {fileID: 294824473}
+  - {fileID: 803078178}
   m_Father: {fileID: 1264220094}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -11594,7 +12284,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 608186925}
   m_Direction: 2
   m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Size: 0.7484788
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -11737,7 +12427,7 @@ RectTransform:
   - {fileID: 155895204}
   - {fileID: 1242224514}
   m_Father: {fileID: 1700942694}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
@@ -11841,8 +12531,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -49.7042}
+  m_SizeDelta: {x: 327.8308, y: 395.2283}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1741139217
 MonoBehaviour:
@@ -11864,22 +12554,33 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Dark Souls[b] is a 2011 action role-playing game developed by FromSoftware
-    and published by Namco Bandai Games. A spiritual successor to FromSoftware's
-    Demon's Souls, the game is the second instalment in the Souls series. Dark Souls
-    takes place in the fictional kingdom of Lordran, where players assume the role
-    of a cursed undead character who begins a pilgrimage to discover the fate of
-    their kind. A port for Microsoft Windows was released in August 2012, which featured
-    additional content not seen in the original PlayStation 3 and Xbox 360 versions.
-    In October 2012, the new content was made downloadable for consoles under the
-    subtitle Artorias of the Abyss.\r\n\r\nDark Souls has been cited as one of the
-    best video games of all time. Critics praised the depth of its combat, intricate
-    level design, and use of flavour text. However, the game's difficulty received
-    mixed reviews, with some criticizing it for being too unforgiving. The original
-    Windows version of the game was less well-received, with criticism directed at
-    several technical issues. By April 2013, the game had sold over two million copies
-    worldwide. Two sequels were released in the mid-2010s, while a remastered version
-    was released in 2018.\r\n\r"
+  m_text: '
+
+    From: Dr Huygens
+
+
+    Subject: The spread of the new virus in
+    Ai
+
+
+    Dear Dr. Baglintcsky,
+
+    We are confronted with a new virus that
+    has not passed much since the last wave of viruses, and in the face of which
+    we are completely helpless. The only reason we overcame the A virus was the antivirus
+    you developed. We can only trust you in this new virus. Unlike the previous virus,
+    we can''t even observe the symptoms here, it''s just that there is something
+    strange in AIs, but it''s not clear what it is. You will be provided with a virus-written
+    Ai and all kinds of guarantees to work. I will wait for your answer in a short
+    time. You are the only specialist who can fix this case.
+
+    _________________
+
+    AncBorg@email.com
+
+    55455-25123-451767
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -11913,7 +12614,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -11945,7 +12646,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1741139218
@@ -12124,8 +12825,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -0.0000019073}
+  m_SizeDelta: {x: 327.8308, y: 295.82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1805789775
 MonoBehaviour:
@@ -12147,34 +12848,33 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Call of Duty Vanguard ile ilgili olan s\u0131z\u0131nt\u0131lar ilk olarak
-    \u201CSlipstream\u201D ve \u201CWWII Vanguard\u201D olarak ortaya \xE7\u0131km\u0131\u015Ft\u0131.
-    Bu oyunun, \u0130kinci D\xFCnya Sava\u015F\u0131 d\xF6nemini konu alaca\u011F\u0131
-    kesin bir \u015Fekilde belirgin bir s\u0131z\u0131nt\u0131 olsa da hikaye a\xE7\u0131s\u0131ndan
-    Adolf Hitler\u2019in \xF6lmedi\u011Fi ve hatta 1950\u2019lere kadar alternatif
-    bir \u015Fekilde yani paralel bir evrendeki \u0130kinci D\xFCnya Sava\u015F\u0131n\u0131n
-    devam edece\u011Fi dedikodular\u0131 ortaya \xE7\u0131km\u0131\u015Ft\u0131.
-    Bununla birlikte 1950\u2019li y\u0131llarda s\xFCren Kore sava\u015F\u0131n\u0131
-    konu alaca\u011F\u0131 bu iddialar aras\u0131na kar\u0131\u015Fm\u0131\u015Ft\u0131.
-    Kimbilir belki de T\xFCrk askerlerini Kore\u2019da g\xF6rebiliriz diye bir umuda
-    da kap\u0131lm\u0131\u015Ft\u0131k. Neyse ki b\xF6yle bir \u015Fey olmad\u0131.
-    Yani \u0130kinci D\xFCnya Sava\u015F\u0131 tarihin ger\xE7ek ak\u0131\u015F\u0131nda
-    oldu\u011Fu gibi 1945 senesinde sona eriyor. Burada bir k\u0131r\u0131lma ya\u015Fanmad\u0131.
-    Sadece oyunun ortalar\u0131nda Hitler\u2019in \xF6ld\xFC\u011F\xFC, SS subaylar\u0131na
-    bilgi olarak gelse de bu subaylar sava\u015F\u0131n bitimine kadar teslim olmuyor.
-    Yani sonuna kadar sava\u015F\u0131yor. Tarihin ak\u0131\u015F\u0131 sadece burada
-    k\xFC\xE7\xFCk bir \u015Fekilde de\u011Fi\u015Fiyor. O da ger\xE7ek tarihi etkilemeyecek
-    bir \u015Fekilde.\r\n\rOyunun as\u0131l hikayesi ise d\xFCnyan\u0131n d\xF6rt
-    bir yan\u0131ndan Nazilere ve Japonlara kar\u015F\u0131 ayaklanan d\xF6rt askerin
-    hikayesini konu al\u0131yor. Britanya Krall\u0131\u011F\u0131 yani \u0130ngiltere
-    taraf\u0131ndan Arthur Kingsley, Sovyetler Birli\u011Fi yani Rusya taraf\u0131ndan
-    Polina Petrova, \u0130ngiliz kolonisi olan Avustralya\u2019dan Lucas Riggs ve
-    Amerika Birle\u015Fik Devletlerinden de Wade Jackson\u2019\u0131n yer ald\u0131\u011F\u0131
-    bu d\xF6rt ki\u015Fi, Vanguard ekibini olu\u015Fturuyor. Oyunun ismi ve temel
-    hikayesi sadece bundan ibaret."
+  m_text: '
+
+    From: Dr Huygens
+
+
+    Subject: AI virus
+
+    
+
+    Dear Dr. Baglintcsky,
+
+    I
+    believe you Doctor, but I advise you to be careful. Although it looks like a
+    simple virus this virus cannot be compared to what we have seen so far. You know
+    better than anyone how important our SAI-borgs are to our company. I will look
+    forward to more information from you.
+
+    _________________
+
+    AncBorg@email.com
+
+    55455-25123-451767
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -12205,7 +12905,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -12237,7 +12937,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1805789776
@@ -12406,7 +13106,7 @@ RectTransform:
   m_Father: {fileID: 2005254561}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0.16703856}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -12593,7 +13293,7 @@ RectTransform:
   m_Father: {fileID: 1324735313}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0.43314004}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -12668,7 +13368,7 @@ RectTransform:
   m_Father: {fileID: 1023346650}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0.15338725}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -12745,8 +13445,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -88.83562}
+  m_SizeDelta: {x: 327.8308, y: 473.4912}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1976368502
 MonoBehaviour:
@@ -12768,27 +13468,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Sorgu sahneleri ger\xE7ekten sinematik a\xE7\u0131dan harika bir \u015Fekilde
-    yarat\u0131lm\u0131\u015F durumda. Ger\xE7ekten bir film kalitesinde ara sahneler
-    var ancak \u201CSchindler\u2019in Listesi\u201D gibi her sahnesi sanat eseri
-    niteli\u011Finde olan bir film gibi de de\u011Fil. Bu sorgu s\u0131ras\u0131nda
-    ise Vanguard ekibinin her bir \xFCyesi, tek tek hapishaneden al\u0131n\u0131yor
-    ve bizzat Jannick Richter taraf\u0131ndan sorguya \xE7ekiliyor. Bu s\u0131rada
-    ise t\xFCm karakterlerimizin sava\u015Ftan sonra ba\u015Flayan hayat\u0131 g\xF6z\xFCm\xFCz\xFCn
-    \xF6n\xFCnden film \u015Feridi gibi ge\xE7iyor ve bu hik\xE2yeyi oyunda ya\u015F\u0131yoruz.
-    Zaten oyunun men\xFC k\u0131sm\u0131 da bu tarz film \u015Feridi \u015Feklinde
-    tasarlanm\u0131\u015F durumda. Az \xF6nce de belirtti\u011Fim gibi oyunun temel
-    hikayesi klasik olarak bu \u015Fekilde. Ba\u015Flang\u0131\xE7ta m\xFCkemmel
-    bir a\xE7\u0131l\u0131\u015F ile oyuna ba\u015Fl\u0131yorsunuz, trene s\u0131z\u0131yorsunuz,
-    yakalan\u0131yorsunuz ve sonra ise hapise t\u0131kand\u0131ktan sonra tek tek
-    sorgu s\u0131ras\u0131nda ba\u015F\u0131n\u0131zdan ge\xE7en olaylar\u0131 anlat\u0131yorsunuz.
-    \r\nModern Warfare ve Black Ops Cold War\u2019a k\u0131yasla da a\u015F\u0131r\u0131
-    k\u0131sa ve ana hik\xE2yeyi be\u015F saatte bitirmeniz m\xFCmk\xFCn. Oynan\u0131\u015F
-    saati be\u015F saat k\u0131sa fakat baz\u0131 b\xF6l\xFCmler sizi o kadar s\u0131k\u0131yor
-    ki o be\u015F saat sanki on be\u015F saatmi\u015F gibi hissi uyand\u0131r\u0131yor. "
+  m_text: "\nSent: Dr Huygens\r\n\nSubject: Cave Adventure \r\n\nDear Dr.Huygens\r\nI
+    understand what you are saying, but I am facing a situation I have never seen
+    before. If you don't take what I say seriously, I understand you, but I don't
+    know what to do, and I wanted to inform you about it. After scanning the virus,
+    the spyware sent a file to my computer. When I opened the file, it wrote the
+    game \"CAVE ADVENTURE\" on my computer. This game was a legend in our time, maybe
+    you remember those times. I didn't have the slightest idea of what it was, but
+    I haven't been open it yet, and I can tell you that this is not the game we know.
+    I can't name what's in this program. After the virus, the A4-SS also began to
+    behave strangely. It's different from the symptoms of the virus. But I emphasize
+    that the only way I can understand everything is to open that game.\r\n_________________\r\nBaglintcsk@email.com\r\n38124-21354-42154\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -12819,7 +13512,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -12851,7 +13544,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1976368503
@@ -12944,8 +13637,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1024834157}
   m_HandleRect: {fileID: 1024834156}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Value: 1
+  m_Size: 0.62329066
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -13056,7 +13749,7 @@ RectTransform:
   m_Father: {fileID: 983364580}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0.705403}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
