@@ -51670,7 +51670,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.281
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -54303,6 +54303,10 @@ PrefabInstance:
     - target: {fileID: 7529805140901220244, guid: eb0bccf938b13b040a358327527ce57f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7529805140901220245, guid: eb0bccf938b13b040a358327527ce57f, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7529805140901220247, guid: eb0bccf938b13b040a358327527ce57f, type: 3}
       propertyPath: myToggle
