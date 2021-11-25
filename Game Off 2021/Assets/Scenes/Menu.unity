@@ -1755,8 +1755,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1184401931}
   m_HandleRect: {fileID: 1184401930}
   m_Direction: 2
-  m_Value: 1.0000001
-  m_Size: 0.6148486
+  m_Value: 1
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4700,7 +4700,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -10, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &602890548
@@ -4723,7 +4723,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: sent:Dr Huygens
+  m_text: To:Dr Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -5355,7 +5355,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -10, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &677429597
@@ -5378,7 +5378,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: sent:Dr Huygens
+  m_text: To:Dr Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -5564,8 +5564,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -92.65333}
-  m_SizeDelta: {x: 327.8308, y: 481.1266}
+  m_AnchoredPosition: {x: -8.75, y: -0.000022888}
+  m_SizeDelta: {x: 327.8308, y: 295.82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &689368406
 MonoBehaviour:
@@ -5587,38 +5587,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Forza Horizon 5'i ilk defa \xE7al\u0131\u015Ft\u0131rmadan \xF6nce, ger\xE7ekten
-    \xE7ok heyecanl\u0131yd\u0131m. Meksika'n\u0131n do\u011Fas\u0131n\u0131 ve manzaralar\u0131n\u0131
-    inan\u0131lmaz merak ediyor ve Playground Games'in ortaya \xE7\u0131karm\u0131\u015F
-    oldu\u011Fu g\xFCzelli\u011Fe ad\u0131m atmak i\xE7in sab\u0131rs\u0131zlan\u0131yordum.
-    Oyunun ana men\xFCs\xFCne girdi\u011Fimde, ilk yapt\u0131\u011F\u0131m \u015Feylerden
-    bir tanesi, Xbox kontrolc\xFCmdeki titre\u015Fimi en y\xFCkse\u011Fe \xE7ekmek
-    oldu. \xD6zellikle yar\u0131\u015F oyunlar\u0131nda olduk\xE7a \xF6nemli bir
-    role sahip olan bu titre\u015Fimlerin, daha iyi bir s\xFCr\xFC\u015F hissiyat\u0131
-    sa\u011Flad\u0131\u011F\u0131n\u0131 d\xFC\u015F\xFCn\xFCyorum.\r\nEpey heyecanl\u0131
-    bir a\xE7\u0131l\u0131\u015F g\xF6reviyle ba\u015Flayan Forza Horizon 5, kelimenin
-    tam anlam\u0131yla fevkalade g\xF6z\xFCk\xFCyordu. Playground Games'in bizlere
-    m\xFCthi\u015F manzaralar sunmas\u0131na her ne kadar al\u0131\u015Fm\u0131\u015F
-    olsak da, Meksika'n\u0131n muhte\u015Fem manzaralar\u0131 kar\u015F\u0131s\u0131nda
-    b\xFCy\xFClenmemek elde de\u011Fil. \xD6zellikle \u0130ngiltere'de ge\xE7en uzun
-    Forza Horizon 4 ser\xFCvenimizin ard\u0131ndan, bence Meksika m\xFCkemmel bir
-    se\xE7im olmu\u015F. \u0130ngiltere, zaten oyunlar\u0131n b\xFCy\xFCk \xE7o\u011Funlu\u011Funda
-    denk geldi\u011Fimiz bir \xFClke. Meksika gibi ilgi \xE7ekici bir atmosfere sahip
-    bir \xFClkenin se\xE7ilmesi, ger\xE7ekten \xE7ok iyi olmu\u015F. Oyun i\xE7erisindeki
-    atmosferi g\xFCzelle\u015Ftiren, aktif bir yanarda\u011F bile bulunuyor.\r\nBizlere
-    Forza Horizon 5'in g\xFCzelliklerini k\u0131saca g\xF6steren heyecanl\u0131 'minik'
-    ilk g\xF6revin ard\u0131ndan, \xFC\xE7 farkl\u0131 ara\xE7 se\xE7imiyle kar\u015F\u0131
-    kar\u015F\u0131ya b\u0131rak\u0131ld\u0131m. Oyunun tan\u0131t\u0131mlar\u0131n\u0131
-    veya oynan\u0131\u015F videolar\u0131n\u0131 izlemeyenler i\xE7in bu k\xFC\xE7\xFCk
-    s\xFCrprizi bozmak istemesem de, i\xE7lerinden favorim olan Ford Bronco'dan bahsetmek
-    istiyorum. Meksika'n\u0131n engebeli ve arazimsi topraklar\u0131ndaki en b\xFCy\xFCk
-    dostum olan Ford Bronco, benim vazge\xE7ilmez arac\u0131m h\xE2line geldi. Ger\xE7ekten
-    muhte\u015Fem g\xF6z\xFCken McLaren Senna'y\u0131 bile b\u0131rakmama sebep olan
-    Bronco, Forza Horizon 5 maceramdaki en b\xFCy\xFCk e\u015Flik\xE7im olmaya devam
-    edecek gibi g\xF6z\xFCk\xFCyor.\r\n\r\n"
+  m_text: "Blue Bonfire TM   \nCopyright 2021\n\nAbbasov Samir \nAZ1000 Azerbaijan,
+    Baku c.\n\nContact Me:\nbluebonfiregames@gmail.com\n+994556922065\n\nwww.bluebonfiregames.com\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5649,7 +5622,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 16
+  m_HorizontalAlignment: 8
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -5681,7 +5654,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &689368407
@@ -8656,7 +8629,7 @@ RectTransform:
   m_Father: {fileID: 665031943}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.3851514}
+  m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -10193,7 +10166,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: from:Dr Huygens
+  m_text: From:Dr Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -10986,7 +10959,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: from:Dr Huygens
+  m_text: From:Dr Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -12559,18 +12532,18 @@ MonoBehaviour:
     From: Dr Huygens
 
 
-    Subject: The spread of the new virus in
-    Ai
+    Subject: The spread of the new virus in Ai
 
 
-    Dear Dr. Baglintcsky,
+    Dear
+    Dr. Baglintcsky,
 
-    We are confronted with a new virus that
-    has not passed much since the last wave of viruses, and in the face of which
-    we are completely helpless. The only reason we overcame the A virus was the antivirus
-    you developed. We can only trust you in this new virus. Unlike the previous virus,
-    we can''t even observe the symptoms here, it''s just that there is something
-    strange in AIs, but it''s not clear what it is. You will be provided with a virus-written
+    We are confronted with a new virus that has not passed
+    much since the last wave of viruses, and in the face of which we are completely
+    helpless. The only reason we overcame the A virus was the antivirus you developed.
+    We can only trust you in this new virus. Unlike the previous virus, we can''t
+    even observe the symptoms here, it''s just that there is something strange in
+    AIs, but it''s not clear what it is. You will be provided with a virus-written
     Ai and all kinds of guarantees to work. I will wait for your answer in a short
     time. You are the only specialist who can fix this case.
 
@@ -12855,7 +12828,7 @@ MonoBehaviour:
 
     Subject: AI virus
 
-    
+
 
     Dear Dr. Baglintcsky,
 

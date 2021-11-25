@@ -107,11 +107,11 @@ public class PlayerController : MonoBehaviour
                 isInvincible = false;
         }
 
-       /* if (Input.GetKey(KeyCode.O))
+        if (Input.GetKey(KeyCode.F4))
         {
-            SavePlayer();
+            SaveSystem.Delete();
 
-        }*/
+        }
         
         
         

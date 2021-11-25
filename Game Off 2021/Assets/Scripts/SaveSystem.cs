@@ -40,4 +40,10 @@ public static class SaveSystem
             return null;
         }
     }
+
+    public static void Delete()
+    {
+        string path = Application.persistentDataPath + "/player.fun";
+        File.Delete(path);
+    }
 }
