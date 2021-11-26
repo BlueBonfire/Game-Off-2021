@@ -25,17 +25,11 @@ public class PlayerAttack : MonoBehaviour
     {
         if (timeBtwAttack <= 0)
         {
-            if (Input.GetKey(KeyCode.K))
+            if (Input.GetKey(KeyCode.K) || Input.GetMouseButton(0) || Input.GetKey(KeyCode.C))
             {
                 anim.SetTrigger("attack");
-                Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position,attackRange,whatIsEnemies);
-                for(int i = 0; i < enemiesToDamage.Length; i++)
-                {
-                    enemiesToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
-                    audioSource.PlayOneShot(attackClip);
-
-                }
                 timeBtwAttack = startTimeBtwAttack;
+
             }
             
 
@@ -49,5 +43,16 @@ public class PlayerAttack : MonoBehaviour
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPos.position, attackRange);
+    }
+    public void Attack()
+    {
+        Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange, whatIsEnemies);
+        for (int i = 0; i < enemiesToDamage.Length; i++)
+        {
+            enemiesToDamage[i].GetComponent<Enemy>().TakeDamage(damage);
+            audioSource.PlayOneShot(attackClip);
+
+        }
+        
     }
 }

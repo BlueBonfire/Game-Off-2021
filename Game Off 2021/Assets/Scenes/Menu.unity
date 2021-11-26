@@ -382,7 +382,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\nSent: Dr Huygens\r\n\nSubject: 413134S.0V S4 Virus \r\n\nDear Dr.Huygens\r\nFrom
+  m_text: "\nTo: Dr.Huygens\r\n\nSubject: 413134S.0V S4 Virus \r\n\nDear Dr.Huygens\r\nFrom
     the moment the virus spread, I did some research on my own and created an A4-SS
     version of SAI-borg as a prototype. I think I can find the source of the virus
     with the spyware in this SAI-borg. I also thank you for the new infected SAI-borg
@@ -797,7 +797,7 @@ RectTransform:
   m_Father: {fileID: 1819966961}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.49325454}
+  m_AnchorMin: {x: 0, y: 0.43067133}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
@@ -1588,15 +1588,14 @@ MonoBehaviour:
 
 
 
-    Following the mass destruction of the Ai, many people opposed
-    the government and the Anc Borg Co. and led to large-scale riots and riots across
-    the country. This situation has not only damaged the country''s economy, but
-    also the people''s lives in many ways. Currently, many measures are being taken
-    to control the situation and correct SAI-borgs. Cimexologists say they can prevent
-    viruses with new projects and fix a permanent security system. Dr Huygens said
-    that we are trying to build a more sustainable system with what we have learned
-    from the A virus. He also said he is confident that they would defeat the B virus
-    as soon as possible.'
+    After the mass extermination of Ai, many people opposed the
+    government and Anc Borg Co. and caused large-scale riots across the country.
+    This situation has damaged not only the country''s economy but also people''s
+    lives in many ways. Currently, many measures are being taken to monitor the situation
+    and correct SAI-borgs. Cimexologists say they can prevent viruses with new projects
+    and build a permanent security system. Dr. Huygens said that we are trying to
+    build a more sustainable system with what we have learned from the A virus. He
+    also expressed confidence that they will defeat the B virus as soon as possible.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -3260,8 +3259,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -36}
-  m_SizeDelta: {x: 327.8308, y: 375.0093}
+  m_AnchoredPosition: {x: -8.75, y: -41.01329}
+  m_SizeDelta: {x: 327.8308, y: 385.0359}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &417029729
 MonoBehaviour:
@@ -3284,15 +3283,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\n\n\n     \n                                                                           
-    \nThe use of SAI-borgs has spread to industry, military, education, health, and
-    more between 2032 and 2034. That meant this was the next stage of civilization.
-    Large companies were formed to make money from this business. At a time when
-    the application of SAI was exploding, these companies made billions. The spread
-    of SAI-borgs led to the emergence of a new century in the world and a major role
-    in the lives of people. SAI's were originally designed as an intellect that could
-    solve people's problems. The development of these Ai was so great that a new
-    \"race\" arose, just like the humans. The only thing that made them different
-    from us was that they were superior to us."
+    \nThe use of SAI-borgs expanded between 2032 and 2034 in industry, military,
+    education, healthcare, and more. This meant that it was the next stage of civilization.
+    Large companies were established to make money from this business. At a time
+    when Sai practice was booming, these companies made billions of dollars. The
+    spread of SAI-borgs has led to the emergence of a new century in the world and
+    played a great role in people's lives. Sai's were originally conceived as a mind
+    capable of solving people's problems. The development of this artificial intelligence
+    was so great that a new \"race\" appeared, just like humans. The only thing that
+    made them different from us was that they were superior to us.."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -3623,17 +3622,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\n\n\n\n2036 Aug 12: The first virus was uploaded to the Internet by rebel
     radical groups (Corrosives) concerned about the hegemony of artificial intelligence.
-    the first virus called A-virus(413134S.0V S3) \r\n\n2036 Oct 07: The virus has
-    started to disrupt the work of soldier AIs. In the example of this virus, the
-    State Agency for Combating All Threats (which could disrupt the work of SAIs)
-    was established and the Law was adopted.\r\n\n2036 Dec 15: According to the law,
-    strong programmers were gathered and academic programmers, popularly known as
-    SAI doctors, were trained and a new technical field was created. This technical
-    field was called cimexology, and programmers were called cimexologists. The main
-    task of Cimexologists was to prevent corruption in the desired area in which
-    SAIs operate, formulate ways to fight the virus, and restore the previously efficient
-    (safe) operation of already corrupted SAI-borgs. Cimexologists eventually defeated
-    the A-virus.\r\n"
+    the first virus called A-virus(413134S.0V S3) \r\n\n2036 Oct 07: The virus began
+    to disrupt most AIs. In the example of this virus, the State Agency for Combating
+    All Threats (which could disrupt the work of SAIs) was established and the Law
+    was adopted.\n\n2036 Dec 15:According to the law, strong programmers were gathered
+    and academic programmers, popularly known as SAI doctors, were trained and a
+    new technical field was created. This technical field was called Cimexology,
+    and programmers were called Cimexologists. The main task of Cimexologists was
+    to prevent corruption in any area where SAIs operate, to develop ways to fight
+    the virus, and to restore the previously efficient (safe) operation of already
+    corrupted SAI-borgs. Cimexologists eventually defeated the A-virus.\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -3832,8 +3830,8 @@ RectTransform:
   m_Father: {fileID: 1136916243}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.20158073}
-  m_AnchorMax: {x: 1, y: 0.9904146}
+  m_AnchorMin: {x: 0, y: 0.2223721}
+  m_AnchorMax: {x: 1, y: 0.9906641}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -4723,7 +4721,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: To:Dr Huygens
+  m_text: To:Dr.Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -5355,7 +5353,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -10, y: 0}
+  m_AnchoredPosition: {x: -11.2, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &677429597
@@ -5378,7 +5376,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: To:Dr Huygens
+  m_text: To:Dr.Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -6891,7 +6889,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 12.1, y: 248}
+  m_AnchoredPosition: {x: 12.1, y: 222}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &953404841
@@ -9216,8 +9214,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.75, y: -143.97229}
-  m_SizeDelta: {x: 327.8308, y: 583.7645}
+  m_AnchoredPosition: {x: -8.75, y: -111.88724}
+  m_SizeDelta: {x: 327.8308, y: 519.5944}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1288957090
 MonoBehaviour:
@@ -9240,22 +9238,20 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\n\n\n     \n                                                                           
-    \nA Revolution in World History: The Application of Super Artificial Intelligence
-    (SAI) in the World Begins. Scientists call SAI-built robots SAI-borgs. What these
-    scientists have finally revealed is that Ai can express and think even more than
-    humans. Although this invention, which can increase the pace of development in
-    all areas from industry to industry, is condemned by many scientists and they
-    think that such an invention will bring the end of humanity. After a long time,
-    Anc Borg Co. in defiance of the question marks in the minds finished their inventions
-    and signed a revolution. These Ai, who is completely loyal to the people, have
-    already started to be used as a test in many projects for the development of
-    humanity and to be further developed. After the presentation of Anc Borg Co.
-    and its gaining so much popularity, New Areas began to develop with the support
-    of the state. \"This is just the beginning. The future is more important to us,
-    and we will take bigger steps towards the future of humanity\" the CEO of the
-    Anc Borg Co. told the media. It should also be noted that the existing technologies
-    are slowly being phased out or adapted to SAI, leading to a new technological
-    evolution.\r                                                                           
+    \nA Revolution in World History: Super Artificial Intelligence (SAI) Begins Implementation
+    in the World. Scientists call SAI-made robots SAI-borgs. What these scientists
+    will come up with is that Ai has more thought and self-expression abilities than
+    humans. Although this invention, which can increase the development in the world,
+    was condemned by scientists and they thought that such an invention could bring
+    the end of the world, after a long time, Anc Borg C.O completed a revolution
+    by completing their proposals for the question marks in the minds. These AIs,
+    which are superior to humans, have been used as tests to get more information
+    in many projects around the world. As science continued to advance with the invention
+    of Anc Borg C.O., New Fields began to evolve. \"This is just one small step.
+    The future is more important to us, and we will lay the foundation for the new
+    era with our larger work to the future,\" the CEO of Anc Borg Co. told the media.
+    Also, adapting their existing technologies to SAI-borgs is only the beginning
+    of the new technology evolution.\r                                                                           
     \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -9416,7 +9412,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 151757160}
   m_Direction: 2
   m_Value: 1.0000001
-  m_Size: 0.50674546
+  m_Size: 0.56932867
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -10166,7 +10162,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: From:Dr Huygens
+  m_text: From:Dr.Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -10805,27 +10801,35 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\n\n\n\nA lot of work has been done in the field of cyber security of
-    SAI-borgs. Because they had seen the damage that a virus could do before, the
-    government was cautious. However, radical groups attacked more violently and
-    create the more resistant B-virus(413134S.0V S4) in 12 sep 2038. During this
-    period (late 2038-early 2039) there were major incidents between the Corrosives
-    and the combined forces (Cimexologists and the police), both cyber and physical.
-    \r\nCorceives boss Ace Edd (a criminal wanted by the police) was a well-educated
-    programmer who once worked for one of the first SAI-borg companies (Anc Borg
-    Co.). He created and developed both the A-virus and the B-virus. The B virus
-    he created was almost destroyed SAI-borgs. The A-virus would cause the SAI-borgs
-    to break down - either stop completely or become aggressive. But the B-virus
-    was something else entirely. The SAI-borgs, who were infected with the virus
-    in the main picture, were in vain, squealing and laughing. They are not serious,
-    they do not approach anything, they joke with people, they form and distribute
-    ridiculous games-music-pictures or films, they banish civilization and take it
-    back. People's trust in SAIs was declining between 2038 and 2039;\r\nPeople began
-    to believe that SAI-borgs was unserious and useless. The spheres of activity
-    and productivity of the SAI-borgs were weakening; people were trying to return
-    to the traditional system. SAI Companies were losing billions of dollars, which
-    was unacceptable to them. But they weren't completely defeated yet, and the technology
-    cartels were pouring huge amounts of money into the fight.\r\n"
+  m_text: '
+
+
+
+
+    A lot of work has been done in the field of cyber security of
+    SAI-debts. In the past, the government was cautious because they saw the damage
+    that a virus could do. However, radical groups launched a more violent attack,
+    creating a more resistant B-virus (413134S.0V S4) on September 12, 2038. During
+    this period (late 2038 - early 2039) there were major incidents between corrosives
+    and combined forces (Cimexologists and the police), both cyber and physical.
+
+    Corceives
+    boss Ace Edd (a criminal wanted by the police) was a well-educated programmer
+    who once worked for one of the first SAI-borg companies (Anc Borg Co.). He created
+    and developed both the A virus and the B virus. The B virus he created almost
+    destroyed the SAI-borgs. The A-virus caused the SAI-borgs to disintegrate, either
+    to stop completely or to become aggressive. But the B virus was something else
+    entirely. Infected SAI-borgs laughed in vain. They were not serious, they did
+    not take anything seriously, they joked with people, they made and distributed
+    funny games-music-pictures or movies, they brought back civilization. People''s
+    trust in SAI declined between 2038 and 2039;
+
+    People began to believe that
+    SAI-borgs were insignificant and useless. The areas of activity and productivity
+    of SAI-borgs were weakening; people were trying to return to the traditional
+    system. SAI companies were losing billions of dollars, which was unacceptable
+    to them. However, they were not completely defeated, and technology cartels poured
+    large sums of money into the struggle.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -10959,7 +10963,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: From:Dr Huygens
+  m_text: From:Dr.Huygens
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
   m_sharedMaterial: {fileID: 3015117994558473187, guid: cac0a7b592c6ff34f9c96c304dc86f03, type: 2}
@@ -11409,7 +11413,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 19, y: 146}
+  m_AnchoredPosition: {x: 19, y: 152}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1554864909
@@ -11591,8 +11595,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 472088559}
   m_HandleRect: {fileID: 472088558}
   m_Direction: 2
-  m_Value: 0.95460725
-  m_Size: 0.78883386
+  m_Value: 0.9597084
+  m_Size: 0.768292
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -12529,7 +12533,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: '
 
-    From: Dr Huygens
+    From: Dr.Huygens
 
 
     Subject: The spread of the new virus in Ai
@@ -12538,14 +12542,14 @@ MonoBehaviour:
     Dear
     Dr. Baglintcsky,
 
-    We are confronted with a new virus that has not passed
-    much since the last wave of viruses, and in the face of which we are completely
-    helpless. The only reason we overcame the A virus was the antivirus you developed.
-    We can only trust you in this new virus. Unlike the previous virus, we can''t
-    even observe the symptoms here, it''s just that there is something strange in
-    AIs, but it''s not clear what it is. You will be provided with a virus-written
-    Ai and all kinds of guarantees to work. I will wait for your answer in a short
-    time. You are the only specialist who can fix this case.
+    We are facing a new virus that has not passed the last
+    wave of viruses and we are completely helpless in front of it. The only reason
+    we beat the A virus was because of the antivirus you developed. We can only rely
+    on you in this new virus. Unlike the previous virus, we can''t even observe the
+    symptoms here, it''s just that there''s something strange in AI, but it''s not
+    clear what it is. You will be given a virus-infected Ai and all sorts of guarantees
+    to work. I will wait for your answer as soon as possible. You are the only specialist
+    who can fix this.
 
     _________________
 
@@ -12823,7 +12827,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: '
 
-    From: Dr Huygens
+    From: Dr.Huygens
 
 
     Subject: AI virus
@@ -13441,7 +13445,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\nSent: Dr Huygens\r\n\nSubject: Cave Adventure \r\n\nDear Dr.Huygens\r\nI
+  m_text: "\nTo: Dr.Huygens\r\n\nSubject: Cave Adventure \r\n\nDear Dr.Huygens\r\nI
     understand what you are saying, but I am facing a situation I have never seen
     before. If you don't take what I say seriously, I understand you, but I don't
     know what to do, and I wanted to inform you about it. After scanning the virus,
